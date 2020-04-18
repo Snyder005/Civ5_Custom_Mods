@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BIG_SUR">
+			<Text>"The fog says 'We are fog and we fly by dissolving like ephemera,' and the leaves say 'We are leaves and we jiggle in the wind, that's all, we come and go, grow and fall' - Even the paper bags in my garbage pit say 'We are mantransformed paper bags made out of wood pulp, we are kinda proud of being paper bags as long as that will be possible, but we'll be mush again with our sisters the leaves come rainy season'."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIG_SUR">
+			<Text>Big Sur</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

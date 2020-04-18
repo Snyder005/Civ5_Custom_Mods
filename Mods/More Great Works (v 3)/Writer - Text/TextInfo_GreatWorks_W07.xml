@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LOLITA">
+			<Text>"All I want to stress is that my discovery of her was a fatal consequence of that 'princedom by the sea' in my tortured past. Everything between the two events was but a series of gropings and blunders, and false rudiments of joy."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LOLITA">
+			<Text>Lolita</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

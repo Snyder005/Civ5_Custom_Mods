@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_MARC">
+			<Text>Franz Marc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGES_ROUAULT">
+			<Text>Georges Rouault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UMBERTO_BOCCIONI">
+			<Text>Umberto Boccioni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PARMIGIANINO">
+			<Text>Parmigianino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROSSO_FIORENTINO">
+			<Text>Rosso Fiorentino</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

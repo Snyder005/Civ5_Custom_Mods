@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:21 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<!-- Great Writers -->
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ORSONSCOTT_CARD</UniqueName>
+			<GreatWorkType>GREAT_WORK_ENDERS_GAME</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ANTHONY_BURGESS</UniqueName>
+			<GreatWorkType>GREAT_WORK_A_CLOCKWORK_ORANGE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HP_LOVECRAFT</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_CALL_OF_CTHULHU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_THOMAS_HOBBES</UniqueName>
+			<GreatWorkType>GREAT_WORK_LEVIATHAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ARISTOTLE</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_POLITICS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HENRY_MILLER</UniqueName>
+			<GreatWorkType>GREAT_WORK_TROPIC_OF_CANCER</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

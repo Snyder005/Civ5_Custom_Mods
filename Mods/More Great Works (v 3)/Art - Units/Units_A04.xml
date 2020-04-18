@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:48:52 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_THEOPHANES</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_DORMITION</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GEORGES_BRAQUE</UniqueName>
+			<GreatWorkType>GREAT_WORK_CLARINET_AND_BOTTLE_OF_RUM_ON_A_MANTLEPIECE</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

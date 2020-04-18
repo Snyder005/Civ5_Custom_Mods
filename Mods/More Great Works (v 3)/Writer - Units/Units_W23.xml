@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:21 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<!-- Great Writers -->
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRIEDRICH_NIETZCHE</UniqueName>
+			<GreatWorkType>GREAT_WORK_BEYOND_GOOD_AND_EVIL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JOHN_MILTON</UniqueName>
+			<GreatWorkType>GREAT_WORK_PARADISE_LOST</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HERODOTUS</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_HISTORIES</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_PERCY_BYSSHE_SHELLEY</UniqueName>
+			<GreatWorkType>GREAT_WORK_OZYMANDIAS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_NOAM_CHOMSKY</UniqueName>
+			<GreatWorkType>GREAT_WORK_MANUFACTURING_CONSENT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHARLES_BUKOWSKI</UniqueName>
+			<GreatWorkType>GREAT_WORK_BURNING_IN_WATER_DROWNING_IN_FLAME</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

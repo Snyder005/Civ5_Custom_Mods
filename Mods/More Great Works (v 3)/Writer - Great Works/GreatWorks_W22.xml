@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:13 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_ENDERS_GAME</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ENDERS_GAME</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ENDERS_GAME</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A_CLOCKWORK_ORANGE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A_CLOCKWORK_ORANGE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_A_CLOCKWORK_ORANGE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_CALL_OF_CTHULHU</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_CALL_OF_CTHULHU</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_CALL_OF_CTHULHU</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LEVIATHAN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LEVIATHAN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LEVIATHAN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_POLITICS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_POLITICS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_POLITICS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TROPIC_OF_CANCER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TROPIC_OF_CANCER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_TROPIC_OF_CANCER</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

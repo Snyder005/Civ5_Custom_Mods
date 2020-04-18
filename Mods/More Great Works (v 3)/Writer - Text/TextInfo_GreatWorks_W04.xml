@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_ELEMENTS_OF_STYLE">
+			<Text>"Nauseous. Nauseated. The first means "sickening to contemplate"; the second means "sick at the stomach." Do not, therefore, say "I feel nauseous," unless you are sure you have that effect on others."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ELEMENTS_OF_STYLE">
+			<Text>The Elements of Style</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

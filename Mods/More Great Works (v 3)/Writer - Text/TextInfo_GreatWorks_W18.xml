@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_ROAD_NOT_TAKEN">
+			<Text>"Somewhere ages and ages hence:[NEWLINE]Two roads diverged in a wood and I-[NEWLINE]I took the one less traveled by."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ROAD_NOT_TAKEN">
+			<Text>The Road Not Taken</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

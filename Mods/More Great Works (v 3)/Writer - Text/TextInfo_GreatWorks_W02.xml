@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ULYSSES">
+			<Text>"A man of genius makes no mistakes. His errors are volitional and are the portals of discovery."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ULYSSES">
+			<Text>Ulysses</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

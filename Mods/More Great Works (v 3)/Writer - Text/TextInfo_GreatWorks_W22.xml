@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ENDERS_GAME">
+			<Text>"In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ENDERS_GAME">
+			<Text>Ender's Game</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_A_CLOCKWORK_ORANGE">
+			<Text>"Does God want goodness or the choice of goodness? Is a man who chooses to be bad perhaps in some way better than a man who has the good imposed upon him?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_CLOCKWORK_ORANGE">
+			<Text>A Clockwork Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_CALL_OF_CTHULHU">
+			<Text>"That is not dead which can eternal lie,[NEWLINE]And with strange aeons even death may die."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CALL_OF_CTHULHU">
+			<Text>The Call of Cthulhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LEVIATHAN">
+			<Text>"In the first place, I put for a general inclination of all mankind, a perpetual and restless desire of power after power, that ceaseth only in death."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEVIATHAN">
+			<Text>Leviathan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_POLITICS">
+			<Text>"He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_POLITICS">
+			<Text>The Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TROPIC_OF_CANCER">
+			<Text>"Not one of us is intact, and yet we have in us all the continents and the seas between the continents and the birds of the air. We are going to put it down -- the evolution of this world which has died but which has not been buried."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TROPIC_OF_CANCER">
+			<Text>Tropic of Cancer</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BEYOND_GOOD_AND_EVIL">
+			<Text>"He who fights with monsters should look that he himself does not become a monster. And when you gaze long into an abyss the abyss also gazes into you."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BEYOND_GOOD_AND_EVIL">
+			<Text>Beyond Good and Evil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PARADISE_LOST">
+			<Text>"Who overcomes by force, hath overcome but half his foe."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PARADISE_LOST">
+			<Text>Paradise Lost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_HISTORIES">
+			<Text>"In peace sons bury fathers, but in war fathers bury sons."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_HISTORIES">
+			<Text>The Histories</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_OZYMANDIAS">
+			<Text>"'My name is Ozymandias, king of kings:[NEWLINE]Look on my works, ye Mighty, and despair!'[NEWLINE] Nothing beside remains. Round the decay[NEWLINE]Of that colossal wreck, boundless and bare[NEWLINE]The lone and level sands stretch far away."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OZYMANDIAS">
+			<Text>Ozymandias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_MANUFACTURING_CONSENT">
+			<Text>"If you're in favor of freedom of speech, that means you're in favor of freedom of speech precisely for views you despise."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MANUFACTURING_CONSENT">
+			<Text>Manufacturing Consent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BURNING_IN_WATER_DROWNING_IN_FLAME">
+			<Text>"They feel no terror at not loving or at not being loved; So many many many of my fellow creatures."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BURNING_IN_WATER_DROWNING_IN_FLAME">
+			<Text>Burning in Water, Drowning in Flame</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

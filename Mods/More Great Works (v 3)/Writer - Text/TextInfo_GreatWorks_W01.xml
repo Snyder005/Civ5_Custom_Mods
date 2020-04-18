@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_EMPERORS_NEW_CLOTHES">
+			<Text>"But he has nothing on at all," cried at last the whole people. That made a deep impression upon the emperor, for it seemed to him that they were right; but he thought to himself, "Now I must bear up to the end." And the chamberlains walked with still greater dignity, as if they carried the train which did not exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_EMPERORS_NEW_CLOTHES">
+			<Text>The Emperor's New Clothes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WUTHERING_HEIGHTS">
+			<Text>"Treachory and violence are spears pointed at both ends - they wound those who resort to them worse than their enemies."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WUTHERING_HEIGHTS">
+			<Text>Wuthering Heights</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_SOUND_AND_THE_FURY">
+			<Text>"I give you the mausoleum of all hope and desire."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SOUND_AND_THE_FURY">
+			<Text>The Sound and the Fury</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CATCH_22">
+			<Text>"He had decided to live forever or die in the attempt."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CATCH_22">
+			<Text>Catch-22</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

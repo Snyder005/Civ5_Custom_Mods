@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_PERSISTENCE_OF_MEMORY">
+			<Text>The Persistence of Memory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STUDY_AFTER_VELAZQUEZS_PORTRAIT_OF_POPE_INNOCENT_X">
+			<Text>Study after Velázquez's Portrait of Pope Innocent X</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

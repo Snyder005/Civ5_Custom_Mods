@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/7/2015 8:40:56 PM -->
+<GameData>
+	<Traits>
+		<Update>
+			<Set CultureFromKills="0" FaithFromKills="100" />
+			<Where Type="TRAIT_CULTURE_FROM_KILLS" />
+		</Update>
+	</Traits>
+	<Language_en_US>
+		<Update>
+			<Set Text="Gains [ICON_PEACE] Faith for the empire from each enemy unit killed." />
+			<Where Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" />
+		</Update>
+	</Language_en_US>
+</GameData>

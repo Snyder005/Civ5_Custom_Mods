@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:21 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<!-- Great Writers -->
+		<Row>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HUNTER_S_THOMPSON</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_RUM_DIARY</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

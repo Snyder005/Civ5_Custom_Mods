@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<GreatWorks>
+		<!-- GREAT WORKS ART -->
+		<Row>
+			<Type>GREAT_WORK_GREAT_WALL_OF_CHINA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_GREAT_WALL_OF_CHINA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Affandi---Great-Wall-of-China.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NUDE_DESCENDING_A_STAIRCASE_NO_2</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NUDE_DESCENDING_A_STAIRCASE_NO_2</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Marcel-Duchamp---Nude-Descending-a-Staircase-No-2.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_TRIUMPH_OF_SURREALISM</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_TRIUMPH_OF_SURREALISM</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Max-Ernst---The-Triumph-of-Surrealism.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ZERO_THROUGH_NINE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ZERO_THROUGH_NINE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Jasper-Johns---Zero-Through-Nine.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ASCENDING_AND_DESCENDING</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ASCENDING_AND_DESCENDING</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_M-C-Escher---Ascending-and-Descending.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_SCREAM</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SCREAM</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Edvard-Munch---The-Scream.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NO_1</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_NO_1</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Jackson-Pollock---No-1.dds</Image>
+		</Row>
+		
+		
+		
+				
+	</GreatWorks>
+</GameData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:09 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HEART_OF_DARKNESS">
+			<Text>"The conquest of the earth, which mostly means the taking it away from those who have a different complexion or slightly flatter noses than ourselves, is not a pretty thing when you look into it too much."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HEART_OF_DARKNESS">
+			<Text>Heart of Darkness</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

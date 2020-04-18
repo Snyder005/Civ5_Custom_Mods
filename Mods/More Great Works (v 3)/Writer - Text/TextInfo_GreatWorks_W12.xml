@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:09 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_RUM_DIARY">
+			<Text>"The race is not to the swift, nor the battle to the strong, but to those who see it coming and jump aside."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_RUM_DIARY">
+			<Text>The Rum Diary</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

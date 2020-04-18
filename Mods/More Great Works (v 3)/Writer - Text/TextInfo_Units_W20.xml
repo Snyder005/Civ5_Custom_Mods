@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_J_R_R_TOLKIEN">
+			<Text>J. R. R. Tolkien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_STEINBECK">
+			<Text>John Steinbeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_T_S_ELIOT">
+			<Text>T. S. Eliot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BORIS_PASTERNAK">
+			<Text>Boris Pasternak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AYN_RAND">
+			<Text>Ayn Rand</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

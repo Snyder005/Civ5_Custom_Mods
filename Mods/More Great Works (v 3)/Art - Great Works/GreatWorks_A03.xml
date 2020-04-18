@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_BLUE_RIDER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BLUE_RIDER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Wassily-Kandinsky---The-Blue-Rider.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_FIGURE_5_IN_GOLD</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_FIGURE_5_IN_GOLD</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Charles-Demuth---The-Figure-5-in-Gold.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:48:52 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_RENE_MAGRITTE</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_SON_OF_MAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GERHARD_RICHTER</UniqueName>
+			<GreatWorkType>GREAT_WORK_ABSTRACT_PAINTING_780_1</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FERNAND_LEGER</UniqueName>
+			<GreatWorkType>GREAT_WORK_SOLDIER_WITH_A_PIPE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAM_WEBER</UniqueName>
+			<GreatWorkType>GREAT_WORK_FORESTER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_QUINTEN_MATSYS</UniqueName>
+			<GreatWorkType>GREAT_WORK_A_GROTESQUE_OLD_WOMAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_BENITO_QUINQUELA_MARTIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_SHIP_UNDER_REPAIR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GEBROEDERS_VAN_LIMBURG</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_ANATOMY_OF_MAN</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+</GameData>

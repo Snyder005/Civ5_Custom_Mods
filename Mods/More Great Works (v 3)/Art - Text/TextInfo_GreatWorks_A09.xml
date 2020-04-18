@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_JACK_PINE">
+			<Text>The Jack Pine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HEAD_OF_A_CAPRI_GIRL">
+			<Text>Head of a Capri Girl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DREAM_JOURNEY_TO_THE_PEACH_BLOSSOM_LAND">
+			<Text>Dream Journey to the Peach Blossom Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LIBERAZIONE_DI_ANDROMEDA">
+			<Text>Liberazione di Andromeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PALAEOLOGUS">
+			<Text>Palaeologus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SAINT_GEORGE_AND_THE_DRAGON">
+			<Text>Saint George and the Dragon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BATTLE_OF_ALEXANDER_AT_ISSUS">
+			<Text>The Battle of Alexander at Issus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_THREATENED_SWAN">
+			<Text>The Threatened Swan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AS_THE_OLD_SING_SO_TWITTER_THE_YOUNG">
+			<Text>As The Old Sing, So Twitter the Young</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PORTRET_VAN_LIZZIE_ANSINGH">
+			<Text>Portret van Lizzie Ansingh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GOLDFINCH">
+			<Text>The Goldfinch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BOY_PLAYING_A_VIOLIN">
+			<Text>Boy Playing a Violin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OMNIBUS_PARIS">
+			<Text>Omnibus, Paris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PENELOPE_IS_WOKEN_BY_EURYCLEA">
+			<Text>Penelope is Woken by Euryclea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MOUNTAINS_AND_SEA">
+			<Text>Mountains and Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JUDITH_BEHEADING_HOLOFERNES">
+			<Text>Judith Beheading Holofernes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_MADONNA_AND_CHILD">
+			<Text>Madonna and Child</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STILL_LIFE_WITH_FRUIT_AND_NUTS">
+			<Text>Still Life with Fruit and Nuts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_HORSE_FAIR">
+			<Text>The Horse Fair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_OCEAN_PARK_NO_27">
+			<Text>Ocean Park No. 27</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_OLD_TRACK_TO_AUVERS">
+			<Text>The Old Track to Auvers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CARCASS_OF_BEEF">
+			<Text>Carcass of Beef</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LIVER_IS_THE_COCKS_COMB">
+			<Text>The Liver is the Cock's Comb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FROM_THE_LAKE">
+			<Text>From the Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FISHING_PORT">
+			<Text>Fishing Port</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PEG_TOP">
+			<Text>Peg-Top</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TWO_CRANES">
+			<Text>Two Cranes</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:13 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_EMPERORS_NEW_CLOTHES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_EMPERORS_NEW_CLOTHES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_EMPERORS_NEW_CLOTHES</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WUTHERING_HEIGHTS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WUTHERING_HEIGHTS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WUTHERING_HEIGHTS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_SOUND_AND_THE_FURY</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SOUND_AND_THE_FURY</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_SOUND_AND_THE_FURY</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

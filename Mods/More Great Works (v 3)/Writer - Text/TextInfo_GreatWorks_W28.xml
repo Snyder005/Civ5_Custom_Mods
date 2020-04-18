@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_STAND">
+			<Text>"Show me a man or a woman alone and I'll show you a saint. Give me two and they'll fall in love. Give me three and they'll invent the charming thing we call 'society'. Give me four and they'll build a pyramid. Give me five and they'll make one an outcast. Give me six and they'll reinvent prejudice."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_STAND">
+			<Text>The Stand</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

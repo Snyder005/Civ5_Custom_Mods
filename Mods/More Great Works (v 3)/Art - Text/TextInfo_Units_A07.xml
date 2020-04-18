@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIERONYMUS_BOSCH">
+			<Text>Hieronymus Bosch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NORMAN_ROCKWELL">
+			<Text>Norman Rockwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_TURNER">
+			<Text>William Turner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARK_ROTHKO">
+			<Text>Mark Rothko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIET_MONDRIAN">
+			<Text>Piet Mondrian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVE_DORE">
+			<Text>Gustave Dore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MASACCIO">
+			<Text>Masaccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUSTAVE_COURBET">
+			<Text>Gustave Courbet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NICOLAS_POUSSIN">
+			<Text>Nicolas Poussin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_DE_KOONING">
+			<Text>Willem de Kooning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_KLEE">
+			<Text>Paul Klee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAZIMIR_MALEVICH">
+			<Text>Kazimir Malevich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDWARD_HOPPER">
+			<Text>Edward Hopper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_LOUIS_THEODORE_GERICAULT">
+			<Text>Jean Louis Théodore Géricault</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CIMABUE">
+			<Text>Cimabue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_ENSOR">
+			<Text>James Ensor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EL_LISSITZKY">
+			<Text>El Lissitzky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EGON_SCHIELE">
+			<Text>Egon Schiele</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

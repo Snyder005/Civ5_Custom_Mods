@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_HEART_IS_A_LONELY_HUNTER">
+			<Text>"And why did everyone persist in thinking the mute was exactly as they wanted him to be--when most likely it was all a very queer mistake?... In the battling tumult of voices he alone was silent."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_HEART_IS_A_LONELY_HUNTER">
+			<Text>The Heart is a Lonely Hunter</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

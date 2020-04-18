@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_UNDER_THE_VOLCANO">
+			<Text>"What is man but a little soul holding up a corpse?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_UNDER_THE_VOLCANO">
+			<Text>Under the Volcano</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

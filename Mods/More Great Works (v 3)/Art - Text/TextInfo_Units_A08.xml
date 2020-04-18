@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RENE_MAGRITTE">
+			<Text>Rene Magritte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERHARD_RICHTER">
+			<Text>Gerhard Richter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FERNAND_LEGER">
+			<Text>Fernand Leger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAM_WEBER">
+			<Text>Sam Weber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QUINTEN_MATSYS">
+			<Text>Quinten Matsys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BENITO_QUINQUELA_MARTIN">
+			<Text>Benito Quinquela Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEBROEDERS_VAN_LIMBURG">
+			<Text>Gebroeders van Limburg</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

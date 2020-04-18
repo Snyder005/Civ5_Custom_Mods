@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_TIGER">
+			<Text>"Tiger! Tiger! burning bright[NEWLINE]In the forest of the night[NEWLINE]What immortal hand or eye[NEWLINE]Could frame thy fearful symmetry?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TIGER">
+			<Text>The Tiger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS">
+			<Text>"Of course it is happening inside your head, Harry, but why on earth should that mean it is not real?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS">
+			<Text>Harry Potter and the Deathly Hallows</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_1_X_1">
+			<Text>"pity this busy monster, manunkind, not."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_1_X_1">
+			<Text>1 x 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DEATH_OF_A_SALESMAN">
+			<Text>"Never fight fair with a stranger, boy. You'll never get out of the jungle that way."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DEATH_OF_A_SALESMAN">
+			<Text>Death of a Salesman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FOUNDATION">
+			<Text>"Never let your sense of morals prevent you from doing what is right."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FOUNDATION">
+			<Text>Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_CRACK_THE_BLADE">
+			<Text>"You can only tell, and tell as true as you can. The telling is all you have, for only you have seen the things you have seen. Some will not believe, and they cannot be helped. They must not be blamed, though, for who could believe in such things? But, some may. They are the ones who matter. When we have told all those who will believe, then our work will be done."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CRACK_THE_BLADE">
+			<Text>Crack the Blade</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

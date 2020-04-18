@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_LA_GRANDE_ODALISQUE">
+			<Text>La Grande Odalisque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_PAPAL_PALACE_AVIGNON">
+			<Text>The Papal Palace, Avignon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CHE_GUEVERA">
+			<Text>Che Guevera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CRYING_GIRL">
+			<Text>Crying Girl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BED">
+			<Text>Bed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DANCE_II">
+			<Text>Dance (II)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BIRTHDAY">
+			<Text>The Birthday</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HARLEQUINS_CARNIVAL">
+			<Text>Harlequin's Carnival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_KNIGHT_DEATH_AND_THE_DEVIL">
+			<Text> The Knight, Death and the Devil</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

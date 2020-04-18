@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GARDEN_OF_EARTHLY_DELIGHTS">
+			<Text>The Garden of Earthly Delights</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BOY_AND_GIRL_GAZING_AT_THE_MOON">
+			<Text>Boy and Girl Gazing at the Moon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_RAIN_STEAM_AND_SPEED_THE_GREAT_WESTERN_RAILWAY">
+			<Text>Rain Steam and Speed, The Great Western Railway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORANGE_AND_YELLOW">
+			<Text>Orange and Yellow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BROADWAY_BOOGIE_WOOGIE">
+			<Text>Broadway Boogie Woogie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PAOLO_AND_FRANCESCA_II">
+			<Text>Paolo and Francesca II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BAPTISM_OF_THE_NEOPHYTES">
+			<Text>Baptism of the Neophytes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_MAN_MADE_MAD_BY_FEAR">
+			<Text>The Man Made Mad by Fear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SPRING_THE_EARTHLY_PARADISE">
+			<Text>Spring (The Earthly Paradise)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WOMAN">
+			<Text>Woman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AD_PARNASSUM">
+			<Text>Ad Parnassum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BLACK_SQUARE">
+			<Text>Black Square</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NIGHTHAWKS">
+			<Text>Nighthawks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_RAFT_OF_THE_MEDUSA">
+			<Text>The Raft of the Medusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KRISTI_GRIPANDE">
+			<Text>Kristi Gripande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_OYSTER_EATER">
+			<Text>The Oyster Eater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_BEAT_THE_WHITES_WITH_THE_RED_WEDGE">
+			<Text>Beat the Whites with the Red Wedge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FIGHTER">
+			<Text>Fighter</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_SON_OF_MAN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_SON_OF_MAN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Rene-Magritte---The-Son-of-Man.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ABSTRACT_PAINTING_780_1</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ABSTRACT_PAINTING_780_1</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Gerhard-Richter---Abstract-Painting-780-1.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SOLDIER_WITH_A_PIPE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SOLDIER_WITH_A_PIPE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Fernand-Leger---Soldier-with-a-Pipe.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FORESTER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FORESTER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Sam-Weber---Forester.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_A_GROTESQUE_OLD_WOMAN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_A_GROTESQUE_OLD_WOMAN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Quinten-Matsys---A-Grotesque-Old-Woman.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SHIP_UNDER_REPAIR</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SHIP_UNDER_REPAIR</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Benito-Quinquela-Martin---Ship-Under-Repair.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_ANATOMY_OF_MAN</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_ANATOMY_OF_MAN</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Gebroeders-van-Limburg---The-Anatomy-of-Man.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

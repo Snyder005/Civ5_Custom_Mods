@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:13 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_BEYOND_GOOD_AND_EVIL</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BEYOND_GOOD_AND_EVIL</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BEYOND_GOOD_AND_EVIL</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PARADISE_LOST</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PARADISE_LOST</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_PARADISE_LOST</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_HISTORIES</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_HISTORIES</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_HISTORIES</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_OZYMANDIAS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_OZYMANDIAS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_OZYMANDIAS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MANUFACTURING_CONSENT</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MANUFACTURING_CONSENT</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_MANUFACTURING_CONSENT</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BURNING_IN_WATER_DROWNING_IN_FLAME</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BURNING_IN_WATER_DROWNING_IN_FLAME</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BURNING_IN_WATER_DROWNING_IN_FLAME</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

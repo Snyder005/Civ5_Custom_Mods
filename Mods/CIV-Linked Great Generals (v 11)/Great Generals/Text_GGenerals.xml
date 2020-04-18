@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/29/2014 6:52:25 PM -->
+<!-- NOTE: The Organization by CIVILIZATION_XYZ in this file is not a functional XML effect
+		It merely makes for easier organization. -->
+
+<GameData>
+	<Language_en_US>
+		<!-- CIVILIZATION_AMERICA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_BUFORD" Text="John Buford" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MACARTHUR" Text="Douglas MacArthur" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_EISENHOWER" Text="Dwight D. Eisenhower" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BRADLEY" Text="Omar Bradley" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANCOCK" Text="W.S. Hancock" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TJACKSON" Text="Thomas Stonewall Jackson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_REYNOLDS" Text="John Reynolds" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PERSHING" Text="Black Jack Pershing" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WOOD" Text="Leonard Wood" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAYLOR" Text="Zachary Taylor" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LONGSTREET" Text="James Longstreet" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLARK" Text="Mark Clark" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREW_JACKSON" Text="Andrew Jackson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHERMAN" Text="William T. Sherman" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHERIDAN" Text="Philip Sheridan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GRANT" Text="Ulysses S. Grant" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARSHALL" Text="George C. Marshall" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CURTIS_LEMAY" Text="Curtis LeMay" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GA_CUSTER" Text="George Armstrong Custer" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAM_HOUSTON" Text="Sam Houston" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEB_STUART" Text="J.E.B. Stuart" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GB_MCCLELLAN" Text="George B. McClellan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ETHAN_ALLEN" Text="Ethan Allen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DANIEL_MORGAN" Text="Daniel Morgan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_N_GREENE" Text="Nathanael Greene" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DOOLITTLE" Text="James H. Doolittle" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AS_JOHNSTON" Text="Albert Sidney Johnston" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_W_PRESCOTT" Text="William Prescott" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_I_PUTNAM" Text="Israel Putnam" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEOERGE_FRANK_ELLIOT" Text="George Frank Elliott" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEOERGE_GORDON_MEADE" Text="George Gordon Meade" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DANIEL_HARVEY_HILL" Text="Daniel Harvey Hill" />
+
+
+		<!-- CIVILIZATION_ARABIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_GHALIYYA_WAHHABIYYA" Text="Ghaliyya al-Wahhabiyya" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHAWLAH_AL_AZWAR" Text="Khawlah bint al-Azwar" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABU_BAKR_LRS" Text="Abu Bakr" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_IBN_AAMIR">
+			<Text>Abdullah ibn Aamir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABI_SUFYAN">
+			<Text>Yazid ibn Abi Sufyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SALADIN_GG">
+			<Text>Saladin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUSA_IBN_NUSAIR">
+			<Text>Musa Ibn Nusair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UQBA_IBN_NAFI">
+			<Text>Uqba ibn Nafi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MU_AWIYA">
+			<Text>Mu'awiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZIYAD_IBN_ABIHI">
+			<Text>Ziyad Ibn Abihi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABUL_ABBAS_AL_SAFFAH">
+			<Text>Abul Abbas al-Saffah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YUSUF_IBN_TASHFIN">
+			<Text>Yusuf ibn Tashfin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMR_IBN_AL_AS">
+			<Text>Amr Ibn al-As</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALI_SAIF_AD_DAULA">
+			<Text>Ali Saif ad-Daula</Text>
+		</Row>
+
+
+
+
+		<!-- CIVILIZATION_ASSYRIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIGLATH_PILESER_III">
+			<Text>Tiglath-Pileser III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERISHUM">
+			<Text>Erishum I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IKUNUM">
+			<Text>Ikunum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PUZUR_ASHUR">
+			<Text>Puzur-Ashur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUT_ASHKUR">
+			<Text>Mut-Ashkur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASINUM">
+			<Text>Asinum</Text>
+		</Row>
+
+
+		<!-- CIVILIZATION_AUSTRIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAIMONDO_MONTECUCCOLI" Text="Raimondo Montecuccoli" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_HOTZE">
+			<Text>Friedrich Freiherr von Hotze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAYALITSCH">
+			<Text>Adam Bayalitsch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELGIOJOSO">
+			<Text>Ludwig von Belgiojoso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_LORENZ">
+			<Text>Karl Ludwig Lorenz of Austria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KARL_FERDINAND">
+			<Text>Karl Ferdinand of Austria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_NAUENDORF">
+			<Text>Friedrich Joseph of Nauendorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOZSEF_ALVINCZI">
+			<Text>Jozsef Alvinczi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELLEGARDE">
+			<Text>Heinrich von Bellegarde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VON_HESS">
+			<Text>Heinrich von Hess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RADETZKY">
+			<Text>Joseph Radetzky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGE_KASTRIOTI">
+			<Text>George Kastrioti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JANOS_HUNYADI">
+			<Text>Janos Hunyadi</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_AZTEC -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ITZCOATL" Text="Itzcoatl" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUITZILHUITL" Text="Huitzilhuitl" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIMALPOPOCA" Text="Chimalpopoca" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAXTLA" Text="Maxtla" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NEZAHUALCOYOTL" Text="Nezahualcoyotl" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TEZOZOMOC" Text="Tezozomoc" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CUAUHTEMOC" Text="Cuauhtemoc" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CUITLAHUAC" Text="Cuitlahuac" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIZOC_LRS" Text="Tizoc" />
+
+		<!-- CIVILIZATION_BABYLON -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_NEBUCHADNEZZAR">
+			<Text>Nebuchadnezzar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NABOPOLASSAR">
+			<Text>Nabopolassar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NERIGLISSAR">
+			<Text>Neriglissar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NABONIDUS">
+			<Text>Nabonidus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BELSHAZZAR">
+			<Text>Belshazzar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NEBUZARADDAN">
+			<Text>Nebuzaraddan</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_BRAZIL -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARLOS_MARIA_DE_ALVEAR" Text="Carlos Maria de Alvear" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONIO_FILIPE_CAMARAO" Text="Antonio Filipe Camarao" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRIQUE_DIAS" Text="Henrique Dias" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_BOLIVAR">
+			<Text>Simon Bolivar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SANTANDER">
+			<Text>Francisco Santander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DE_LIMA_E_SILVA">
+			<Text>Luis Alves de Lima e Silva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSE_DE_SAN_MARTIN">
+			<Text>Jose de San Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MOREIRA_CESAR">
+			<Text>Moreira Cesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_COSTA_E_SILVA">
+			<Text>Costa e Silva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMILIO_MEDICI">
+			<Text>Emilio Medici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BENTO_GONCALVES">
+			<Text>Bento Goncalves</Text>
+		</Row>
+
+		<!-- CIVILIZATION_BYZANTIUM -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MANUEL_BOUTOUMITES" Text="Manuel Boutoumites" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CONSTANTINE_DALASSENOS" Text="Constantine Dalassenos" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDRONICUS_CONTOSTEPHANUS" Text="Andronicus Contostephanus" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_MAUREX" Text="Michael Maurex" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_KOURKOUAS" Text="John Kourkouas" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FLAVIUS_MARCIANUS_AUGUSTUS" Text="Flavius Marcianus Augustus" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERACLIUS">
+			<Text>Heraclius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LEO_III_ISAURIAN">
+			<Text>Leo III the Isaurian</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_CARTHAGE -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAGO_BARCA">
+			<Text>Mago Barca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HASDRUBAL">
+			<Text>Hasdrubal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARTHALO">
+			<Text>Carthalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAHARBAL">
+			<Text>Maharbal</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_CELTS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_BOUDICCA">
+			<Text>Boudicca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORGETORIX">
+			<Text>Orgetorix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARACTACUS">
+			<Text>Caractacus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CUNOBELINUS">
+			<Text>Cunobelinus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DUMNORIX">
+			<Text>Dumnorix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OWAIN_GLYNDWR">
+			<Text>Owain Glyndwr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BRUDE">
+			<Text>Brude</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CINAED_MAC_AILPIN">
+			<Text>Cinaed mac Ailpin</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_CHINA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_FU_HAO" Text="Fu Hao" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GAO_GUIYING" Text="Gao Guiying" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHEN_YUNYING" Text="Shen Yunying" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LI_XIU" Text="Li Xiu" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_QIN_LIANGYU" Text="Qin Liangyu" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_XU_DA_LRS" Text="Xu Da" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAN_MIN_LRS" Text="Ran Min" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_QIN_SHI_HUANG">
+			<Text>Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAN_XIN">
+			<Text>Han Xin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YUE_FEI">
+			<Text>Yue Fei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHANG_TSO_LIN">
+			<Text>Chang Tso-lin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JIANG_WEI">
+			<Text>Jiang Wei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUO_ZIYI">
+			<Text>Guo Ziyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUANG_ZHONG">
+			<Text>Huang Zhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QI_JIGUANG">
+			<Text>Qi Jiguang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAN_CHAO">
+			<Text>Ban Chao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SONG_ZHEYUAN">
+			<Text>Song Zheyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LU_XUN_LRS">
+			<Text>Lu Xun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAN_SHIZHONG">
+			<Text>Han Shizhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHU_DE">
+			<Text>Zhu De</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUN_JIAN">
+			<Text>Sun Jian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUN_QUAN">
+			<Text>Sun Quan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZHANG_FEI">
+			<Text>Zhang Fei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUAN_YU">
+			<Text>Guan Yu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LIU_BEI">
+			<Text>Liu Bei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUN_CE">
+			<Text>Sun Ce</Text>
+		</Row>
+
+
+
+
+		<!-- CIVILIZATION_DENMARK -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_HEINRICH_ERNST_PERMANN" Text="Heinrich Ernst Peymann" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHANN_VON_EWALD" Text="Johann von Ewald" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_OLAF_RYE" Text="Olaf Rye" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_THORSTEIN_EIRIKSSON" Text="Thorstein Eiriksson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_IVAR_RAGNARSSON" Text="Ivar Ragnarsson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HALFDAN_RAGNARSSON" Text="Halfdan Ragnarsson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_UBBE_RAGNARSSON" Text="Ubbe Ragnarsson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROLLO_LRS" Text="Rollo" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HORIK_I_LRS" Text="Horik I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GODFRED_LRS" Text="Godfred" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SWEIN_ESTRIDSSON" Text="Swein Estridsson" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAGERTHA" Text="Lagertha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAGNAR_LOTHBROK" Text="Ragnar Lothbrok" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HARALD_HARDRADA" Text="Harald Hardrada" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HEALFDENE" Text="Healfdene" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HROREK_DENMARK" Text="Hrorek" />
+
+
+		<!-- CIVILIZATION_EGYPT -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIYE_LRS" Text="Piye" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_THUTMOSE_III">
+			<Text>Thutmose III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MENES_LRS">
+			<Text>Menes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAMSES_LRS">
+			<Text>Ramses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHUFU_LRS">
+			<Text>Khufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MENTUHOTEP_LRS">
+			<Text>Mentuhotep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SETI_LRS">
+			<Text>Seti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NARMER_LRS">
+			<Text>Narmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AHMOSE_LRS">
+			<Text>Ahmose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WENI_LRS">
+			<Text>Weni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMUN_HER_WENEMEF">
+			<Text>Amun-her-wenemef</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_ETHIOPIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_GELAWDEWOS" Text="Gelawdewos" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAWIT_II" Text="Dawit II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MENELIK_II" Text="Menelik II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MENELIK_I" Text="Menelik I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAS_MAKONNEN" Text="Ras Makonnen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAFARI_MAKONNEN" Text="Tafari Makonnen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KASSA_HAILU" Text="Kassa Hailu" />
+
+
+
+
+		<!-- CIVILIZATION_ENGLAND -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFRED_GREAT" Text="Alfred the Great" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ATHELSTAN" Text="Athelstan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AETHELFLAED" Text="Aethelflaed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARY_BANKES" Text="Mary Bankes" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_BRADSTREET" Text="John Bradstreet" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AETHELWULF_BEERKSHIRE" Text="Aethelwulf of Berkshire" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_CORNWALLIS">
+			<Text>Charles Cornwallis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WELLESLEY">
+			<Text>Arthur Wellesley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAIG">
+			<Text>Douglas Haig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_J_CHURCHILL">
+			<Text>John Churchill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_C_GORDON">
+			<Text>Charles George Gordon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_W_HOWE">
+			<Text>William Howe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERBERT_KITCHENER">
+			<Text>Herbert Kitchener</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_CLIVE">
+			<Text>Robert Clive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_LIONHEART">
+			<Text>Richard the Lionheart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_WALLACE">
+			<Text>William Wallace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIR_HENRY_CLINTON">
+			<Text>Sir Henry Clinton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DOUGLAS_BADER">
+			<Text>Douglas Bader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAROLD_ALEXANDER">
+			<Text>Harold Alexander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAMES_WOLFE">
+			<Text>James Wolfe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUGH_DOWDING">
+			<Text>A.C.M. Hugh Dowding</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_FRANCE -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_GUISCARD" Text="Robert Guiscard" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_FOCH">
+			<Text>Ferdinand Foch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOFFRE">
+			<Text>Joseph Joffre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLEMAGNE">
+			<Text>Charlemagne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_PETAIN">
+			<Text>Henri Petain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DE_GAULLE">
+			<Text>Charles de Gaulle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAURICE_DE_SAXE">
+			<Text>Maurice de Saxe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_DE_BOURBON">
+			<Text>Louis de Bourbon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURAT_LRS">
+			<Text>Joachim Murat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUISJOSEPH_DE_MONTCALM">
+			<Text>Louis-Joseph de Montcalm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAFAYETTE_LRS">
+			<Text>Gilbert du Motier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LECLERC_LRS">
+			<Text>Philippe Leclerc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PRINCE_DE_CONDE">
+			<Text>Prince de Conde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_NICOLAS_DAVOUT">
+			<Text>Louis Nicolas Davout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGES_GUYNEMER">
+			<Text>Georges Guynemer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIERRE_CLOSTERMANN">
+			<Text>Pierre Clostermann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUISRENE_DE_LATOUCHE_TREVILLE">
+			<Text>Louis-Rene de Latouche Treville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_LANNES">
+			<Text>Jean Lannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHEL_NEY">
+			<Text>Michel Ney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_FRIANT">
+			<Text>Louis Friant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_DESAIX">
+			<Text>Louis Desaix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDREA_MASSENA">
+			<Text>Andrea Massena</Text>
+		</Row>
+
+		<!-- CIVILIZATION_GERMANY -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUSEWITZ">
+			<Text>Carl von Clausewitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MOLTKE">
+			<Text>Helmuth von Moltke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HINDENBURG">
+			<Text>Paul von Hindenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUDENDORFF">
+			<Text>Erich Ludendorff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BISMARCK">
+			<Text>Otto von Bismarck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BLUCHER">
+			<Text>Gebhard von Blucher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GNEISENAU">
+			<Text>August von Gneisenau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERICK_GREAT">
+			<Text>Frederick the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERICK_BARBAROSSA">
+			<Text>Frederick Barbarossa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFRED_SCHLIEFFEN">
+			<Text>Alfred Schlieffen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_VON_LETTOW_VORBECK">
+			<Text>Paul von Lettow-Vorbeck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAXIMILLIAN_I">
+			<Text>Maximilian I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GUNTHER_VON_KLUGE">
+			<Text>Gunther von Kluge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILHELM_I_PRUSSIA">
+			<Text>Wilhelm I of Prussia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILHELM_VON_TEGETTHOFF">
+			<Text>Wilhelm von Tegetthoff</Text>
+		</Row>
+
+
+
+
+
+		<!-- CIVILIZATION_GREECE -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_SELEUCUS_I_NICATOR" Text="Seleucus I Nicator" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_THUCYDIDES">
+			<Text>Thucydides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PERICLES">
+			<Text>Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EUMENES">
+			<Text>Eumenes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_XANTHIPPUS">
+			<Text>Xanthippus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHILIP_II_MACEDON">
+			<Text>Philip II of Macedon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PARMENION">
+			<Text>Parmenion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MILTIADES_YOUNGER">
+			<Text>Miltiades the Younger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_COES_MYTILENE">
+			<Text>Coes of Mytilene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_XENOPHON">
+			<Text>Xenophon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAVLOS_KOUNTOURIOTIS">
+			<Text>Pavlos Kountouriotis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DIMITRIS_PLAPOUTAS">
+			<Text>Dimitris Plapoutas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THEODOROS_KOLOKOTRONIS">
+			<Text>Theodoros Kolokotronis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALCIBIADES">
+			<Text>Alcibiades</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_HUNS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_BALAMBER">
+			<Text>Balamber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ULDIN">
+			<Text>Uldin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARATON">
+			<Text>Charaton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_OCTAR">
+			<Text>Octar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUGILA">
+			<Text>Rugila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BLEDA">
+			<Text>Bleda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ELLAC">
+			<Text>Ellac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DENGIZICH">
+			<Text>Dengizich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNAKH">
+			<Text>Ernakh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHAUSH">
+			<Text>Shaush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KUTRIGUR">
+			<Text>Kutrigur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_UTIGUR">
+			<Text>Utigur</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_INCA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHIMA_LONCO" Text="Michima Lonco" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GALVARINO" Text="Galvarino" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PELANTARO" Text="Pelantaro" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUAYNA_CAPAC" Text="Huayna Capac" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOPA_INCA_YUPANQUI" Text="Topa Inca Yupanqui" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUASCAR_INCA_LRS" Text="Huascar" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ATAHUALPA" Text="Atahualpa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MANCO_CAPAC" Text="Manco Capac" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WIRAQUCHA" Text="Wiraqucha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_QHAPAQ_YUPANKI_INKA" Text="Qhapaq Yupanki Inka" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SINCHI_ROCA" Text="Sinchi Roca" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAYTA_QHAPAQ_INKA" Text="Mayta Qhapaq Inka" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_INKA_ROQA">
+			<Text>Inka Roq'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PACHACUTI_LRS">
+			<Text>Pachacuti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MANCO_INCA">
+			<Text>Manco Inca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAPU_AMARU">
+			<Text>Tupa Amaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ATAHUALLPA">
+			<Text>Atahuallpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHALICUCHIMA">
+			<Text>Chalicuchima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_QUISQUIS">
+			<Text>Quisquis</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_INDIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_KELADI_CHENNAMMA" Text="Keladi Chennamma" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABBAKKA_RANI" Text="Abbakka Rani" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BEGUM_HAZRAT_MAHAL" Text="Begum Hazrat Mahal" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RANI_LAKSHMIBAI" Text="Rani Lakshmibai" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BIBI_SAHIB_KAUR" Text="Bibi Sahib Kaur" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAJI_RAO_I">
+			<Text>Baji Rao I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BABUR_LRS">
+			<Text>Babur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHIVAJI_BHOSLE">
+			<Text>Shivaji Bhosle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RANJIT_SINGH">
+			<Text>Ranjit Singh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAMUDRAGUPTA">
+			<Text>Samudragupta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PORUS">
+			<Text>Porus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BINDUSARA">
+			<Text>Bindusara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TILAK">
+			<Text>Tilak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAYAVARMAN_II">
+			<Text>Jayavarman II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RAJARAJA_CHOLA">
+			<Text>Rajaraja Chola</Text>
+		</Row>
+
+
+
+
+		<!-- CIVILIZATION_INDONESIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_HASANUDDIN" Text="Sultan Hasanuddin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AIDTYAWARMAN" Text="Adityawarman" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AIRLANGGA" Text="Airlangga" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HADIWIJAYA" Text="Hadiwijaya" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KYAI_GEDHE_PAMANAHAN" Text="Kyai Gedhe Pamanahan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SANJAYA_MATARAM" Text="Sanjaya of Mataram" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RADEN_WIJAYA" Text="Raden Wijaya" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAYAM_WURUK" Text="Hayam Wuruk" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOEKARNO">
+			<Text>Soekarno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DIPONEGORO">
+			<Text>Diponegoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOEDIRMAN">
+			<Text>Soedirman</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_IROQUOIS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSEPH_BRANT" Text="Thayendanegea" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TEYONINHOKOVRAWEN" Text="Teyoninhokovrawen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOGN_DESERONTO" Text="John Deseronto" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AKIATONHARONKWEN" Text="Akiatonharonkwen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CANAQUEESE" Text="Canaqueese" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AYENWATHA" Text="Ayenwatha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_THAONAWYUTHE" Text="Thaonawyuthe" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SI_GWA_AH_DOW_GWIH" Text="Si-gwa-ah-doh-gwih" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAKAYENGWARATON" Text="Sakayengwaraton" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_OSKANONDONHA" Text="Oskanondonha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HASANOANDA" Text="Hasanoanda" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STAND_WATIE" Text="Stand Watie" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SAYENQUERAGHTA" Text="Sayenqueraghta" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TANACHARISON" Text="Tanacharison" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TECUMSEH" Text="Tecumseh" />
+
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAIIONTWAKON">
+			<Text>Kaiiontwa'kon</Text>
+		</Row>
+
+		<!-- CIVILIZATION_JAPAN -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOMOE_GOZEN" Text="Tomoe Gozen" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAKANO_TAKEKO" Text="Nakano Takeko" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOKUGAWA_IEYASU" Text="Tokugawa Ieyasu" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIDEKI_TOJO">
+			<Text>Hideki Tojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOMOYUKI_YAMASHITA">
+			<Text>Tomoyuki Yamashita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HIROYOSHI_NISHIZAWA">
+			<Text>Hiroyoshi Nishizawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MINAMOTO_NO_YORITOMO">
+			<Text>Minamoto no Yoritomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOYOTOMI_HIDEYOSHI">
+			<Text>Toyotomi Hideyoshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASHIKAGA_TAKAUJI">
+			<Text>Ashikaga Takauji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHINGEN_TAKEDA">
+			<Text>Shingen Takeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KENSHIN_UESUGI">
+			<Text>Kenshin Uesugi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TADAMICHI_KURIBAYASHI">
+			<Text>Tadamichi Kuribayashi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IWAICHI_FUJIWARA">
+			<Text>Iwaichi Fujiwara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MASANOBU_TSUJI">
+			<Text>Masanobu Tsuji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SOSAKU_SUZUKI">
+			<Text>Sosaku Suzuki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAKASHITA_YOSHIHARU">
+			<Text>Takashita Yoshiharu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RENYA_MUTAGUCHI">
+			<Text>Renya Mutaguchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KIYOTAKE_KAWAGUCHI">
+			<Text>Kiyotake Kawaguchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_YAMAGATA_KYOSUKE">
+			<Text>Yamagata Kyosuke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HONDA_HEIHACHIRO">
+			<Text>Honda Heihachiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_II_NAOMASA">
+			<Text>Ii Naomasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TACHIBANA_MUNESHIGE">
+			<Text>Tachibana Muneshige</Text>
+		</Row>
+
+
+		<!-- CIVILIZATION_KOREA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_YEON_GAESOMUN" Text="Yeon Gaesomun" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_YANG_MAN_CHUN" Text="Yang Man-chun" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KIM_YU_SIN" Text="Kim Yu-sin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DEA_JO_YEONG" Text="Dae Jo-yeong" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SEA_HUI" Text="Seo Hui" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GANG_GAM_CHAN" Text="Gang Gam-chan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_YUN_GWAN" Text="Yun Gwan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHOE_YEONG" Text="Choe Yeong" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KIM_JONG_SEO" Text="Kim Jong-seo" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GWAK_JAE_U" Text="Gwak Jae-u" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_IM_GYEONG_EOP" Text="Im Gyeong-eop" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HONG_BEOM_DO" Text="Hong Beom-do" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KIM_CHWA_CHIN" Text="Kim Chwa-chin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GWANGGAETO_GREAT" Text="Gwanggaeto the Great" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_YI_SONG_GYE">
+			<Text>Yi Song-gye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DONGMYEONG">
+			<Text>Dongmyeong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ONJO_LRS">
+			<Text>Onjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EULJI_MUNDEOK">
+			<Text>Eulji Mundeok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHIN_RIP">
+			<Text>Shin Rip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KWON_YUL">
+			<Text>Kwon Yul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WANG_GEON">
+			<Text>Wang Geon</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_MAYA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_K_ABEL">
+			<Text>Queen K'Abel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIYEL">
+			<Text>Ch'iyel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHANCHAKKAKNALAJAW">
+			<Text>Chan Chak K'ak'nal Ajaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAKTILW_CHAN_CHAAK">
+			<Text>K'ak'Tilw Chan Chaak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAKUPAKAL">
+			<Text>K'ak'upakal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAN_EK">
+			<Text>Kan Ek'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAYBIL_BALAM">
+			<Text>Kayb'il B'alam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AH_MEKAT_TUTUL" Text="Ah Mekat Tutul Xiu" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AH_ULIL" Text="Ah Ulil" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHACXIBCHAC" Text="Chac-Xib-Chac" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHANAL_BALAM" Text="Chanal Balam" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HALACH_UINIK" Text="Halach Uinik" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ITZAMNAAJ_BAHLAM" Text="Itzamnaaj Bahlam of Ucanal" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LACHAN_KAWIIL_AJAW_BOT" >
+			<Text>Lachan K'awiil Ajaw Bot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TABSCOOB" Text="Tabscoob" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AJ_YAXJAL_BAAK" >
+			<Text>Aj Yaxjal B'aak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TECUN_UMAN" Text="Tecun Uman" />
+
+
+		<!-- CIVILIZATION_MOROCCO -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_TARIQ_IBN_ZEYAD" Text="Tariq ibn Zeyad" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_UTHMAN_IBN_NAISSA" Text="Uthman ibn Naissa" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASH_SHEIKH">
+			<Text>Mohammed ash-Sheikh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_GHALIB">
+			<Text>Abdallah al-Ghalib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_MANSUR">
+			<Text>Ahmad al-Mansur</Text>
+		</Row>
+
+
+
+		<!-- CIVILIZATION_NETHERLANDS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALKMAAR_KENAU" Text="Alkmaar Kenau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_ORANGE" Text="William the Silent" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOUIS_NASSAU" Text="Louis of Nassau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_VAN_NASSAU" Text="Willem van Nassau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FLORIS_DE_VOOGD" Text="Floris de Voogd" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_II_HOLLAND" Text="Willem II van Holland" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_III_DE_CROY" Text="Charles III de Croy" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERMAN_DE_LYNDEN" Text="Herman de Lynden" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERARD_PIETERSZ_HULFT" Text="Gerard Pietersz Hulft" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_MAURICE_NASSAU" Text="John Maurice of Nassau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERIK_HENDRIK_ORANGE" Text="Frederik Hendrik of Orange" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAURITS_VAN_ORANJE" Text="Maurits van Oranje" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FILIPS_VAN_LALAING" Text="Filips van Lalaing" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FILIPS_HOHENLOHE_NEUENSTEIN" Text="Filips van Hohenlohe-Neuenstein" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENDRIK_VAN_NASSAU_OUWERKERK" Text="Hendrik van Nassau-Ouwerkerk" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FREDERIK_CHRISTIAN_VAN_REEDE" Text="Frederik Christiaan van Reede" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GODARD_VAN_REEDE" Text="Godard van Reede" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOOST_DE_SOETE" Text="Joost de Soete" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ADOLF_VAN_NIEUWENAAR" Text="Adolf van Nieuwenaar" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_FREDERIK_VAN_BYLANDT" Text="Willem Frederik van Bylandt" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLEM_FREDERIK_VAN_ORANJE_NASSAU" Text="Willem Frederik van Oranje-Nassau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_HENDRIK_CHASSE" Text="David Hendrik Chasse" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIMON_SPOOR" Text="Simon Spoor" />
+
+
+
+
+		<!-- CIVILIZATION_OTTOMAN -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUSTAFA_KEMAL_ATATURK" Text="Mustafa Kemal" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MEHMET_II" Text="Mehmet II the Conqueror" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SELIM_I" Text="Selim I the Grim" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORHAN_LRS" Text="Orhan Ghazi" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURAD_I_LRS" Text="Murad I Hudavendigar" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAYEZID_I_LRS" Text="Bayezid I Yildirim" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PARGALI_IBRAHIM" Text="Pargali Ibrahim" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAHMUD_PASHA_ANGELOVIC" Text="Mahmud Pasha Angelovic" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LALA_KARA_MUSTAFA_PASHA" Text="Lala Kara Mustafa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MURAD_II_KODJA" Text="Murad II Kodja" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TURAHANOGLU_OMER_BEY" Text="Turahanoglu Omer Bey" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GHAZI_EVRENOS_BEY" Text="Ghazi Evrenos Bey" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LALA_SAHIN" Text="Lala Sahin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MALKOCOGLU_BALI_BEY" Text="Malkocoglu Bali Bey" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ISMET_PASHA" Text="Ismet Pasha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAZIM_PASHA" Text="Kazim Pasha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FEVZI_PASHA" Text="Fevzi Pasha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KUYUCU_MURAD" Text="Kuyucu Murad" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GHAZI_OSMAN" Text="Ghazi Osman" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BALTACI_MEHMED" Text="Baltaci Mehmed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KOPRULU_MEHMED" Text="Koprulu Mehmed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CANDARLI_ALI" Text="Candarli Ali" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HADIM_SINAN" Text="Hadim Sinan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZAGANOS_MEHMED" Text="Zaganos Mehmed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CEZZAR_AHMED" Text="Cezzar Ahmed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TIRYAKI_HASAN" Text="Tiryaki Hasan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HUMBARACI_AHMED" Text="Humbaraci Ahmed" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TELLI_HASAN" Text="Telli Hasan" />
+
+
+
+
+
+
+
+
+		<!-- CIVILIZATION_PERSIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_NADIR_SHAH" Text="Nadir Shah" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHAPUR_I" Text="Shapur I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DARIUS" Text="Darius" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTAXERXES_III" Text="Artaxerxes III" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CYAXARES" Text="Cyaxares" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAMBYSES_II" Text="Cambyses II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_XERXES" Text="Xerxes" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ACHAEMENES" Text="Achaemenes" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KHOSRAU_II" Text="Khosrau II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ABBAS_I" Text="Abbas I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MITHRIDATES" Text="Mithridates" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARIOBARZANES" Text="Ariobarzanes" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUSTAHAM_SUREN_PAHLAV" Text="Rustaham Suren-Pahlav" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAHRAM_CHOBIN" Text="Bahram Chobin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SHAPUR_II" Text="Shapur II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROSTAM_FARROKHZAD" Text="Rostam Farrokhzad" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BABAK_KHORRAM_DIN" Text="Babak Khorram-Din" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CYRUS_GREAT" Text="Cyrus the Great" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARDONIUS" Text="Mardonius" />
+
+		<!-- CIVILIZATION_POLAND -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_KONIECPOLSKI" Text="Stanislaw Koniecpolski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_III_SOBIESKI" Text="Jan III Sobieski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_PONIATOWSKI" Text="Stanislaw Poniatowski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMILIA_PLATER" Text="Emilia Broel-Plater" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_KAROL_CHODKIEWICZ" Text="Jan Karol Chodkiewicz" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_ZOLIEWSKI" Text="Stanislaw Zolkiewski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEFAN_CZARNIEKI" Text="Stefan Czarniecki" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KRZYSZTOF_MIKOLAJ_RADZIWILL" Text="Krzysztof Mikolaj Radziwill" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KONSTANTY_IWANOWICZ_OSTROGSKI" Text="Konstanty Iwanowicz Ostrogski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAWEL_JAN_SAPIEHA" Text="Pawel Jan Sapieha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_MACZEK" Text="Stanislaw Maczek" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WLADYSLAW_ANDERS" Text="Wladyslaw Anders" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TADEUSZ_ROZWADOWSKI" Text="Tadeusz Rozwadowski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STANISLAW_HALLER" Text="Stanislaw Haller" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOZEF_PILSUDSKI" Text="Jozef Pilsudski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TADEUSZ_KOSCIUSZKO" Text="Tadeusz Kosciuszko" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_HENRYK_DABROWSKI" Text="Jan Henryk Dabrowski" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LRS_MIESZKO_I" Text="Mieszko I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BOLESLAW_CHROBRY" Text="Boleslaw I Chrobry" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WLADYSLAW_I_LOKIETEK" Text="Wladyslaw I Lokietek" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WLADYSLAW_II_JAGIELLO" Text="Wladyslaw II Jagiello" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEFAN_BATORY" Text="Stefan Batory" />
+
+		<!-- CIVILIZATION_POLYNESIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALEIOPUU" Text="Kaleiopuu" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALANINUIAMAMAO" Text="Kalaninuiamamao" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MOKULANI" Text="Mokulani" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KEAWE_LRS" Text="Keawe" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KEEAUMOKU_NUI" Text="Keeaumoku Nui" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_UMI_A_LILOA" Text="Umi-a-Liloa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HAKAU_LRS" Text="Hakau" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALANIMOKU" Text="Kalanimoku" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KAHEKILI_II" Text="Kahekili II" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KALANIKUPULE" Text="Kalanikupule" />
+
+
+		<!-- CIVILIZATION_PORTUGAL -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MATIAS_DE_ALBUQUERQUE" Text="Matias de Albuquerque" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_BARRETO_DE_MENESES" Text="Francisco Barreto de Meneses" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDRE_FURTADO_DE_MENDONCA" Text="Andre Furtado de Mendonca" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHILLIPPE_DE_OLIVEIRA" Text="Phillippe de Oliveira" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SALVADOR_CORREIA_DE_SA_E_BENEVIDES" Text="Salvador Correia de Sa e Benevides" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SANCHO_MANOEL_DE_VILHENA" Text="Sancho Manoel de Vilhena" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONIO_JOSE_SEVERIM_DE_NORONHA" Text="Antonio Jose Severim de Noronha" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PEDRO_I_PORTUGAL" Text="Pedro I" />
+
+
+
+		<!-- CIVILIZATION_ROME -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_SULLA" Text="Lucius Cornellius Sulla" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CRASSUS" Text="Marcus Crassus" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SERTORIUS" Text="Quintus Sertorius" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LUCIUS_DOMITIUS_AURELIANUS" Text="Lucius Domitius Aurelianus" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CLAUDIUS_GOTHICUS" Text="Claudius Gothicus" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_FLAVIUS_CONSTANTINUS">
+			<Text>Flavius Constantinus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_ULPIUS_TRAIANUS">
+			<Text>Marcus Ulpius Traianus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GERMANICUS_JULIUS_CAESAR">
+			<Text>Germanicus Julius Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TITUS_FLAVIUS_VESPASIANUS">
+			<Text>Titus Flavius Vespasianus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PUBLIUS_HADRIANUS">
+			<Text>Publius Hadrianus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_AURELIUS_LRS">
+			<Text>Marcus Aurelius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SEPTIMUS_SEVERUS">
+			<Text>Septimius Severus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FABIIUS_MAXIMUS">
+			<Text>Fabius Maximus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCUS_CLAUDIUS_MARCELLUS">
+			<Text>Marcus Claudius Marcellus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FLAVIUS_AETIUS">
+			<Text>Flavius Aetius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GAIUS_AVIDIUS_CASSIUS">
+			<Text>Gaius Avidius Cassius</Text>
+		</Row>
+
+		<!-- CIVILIZATION_RUSSIA -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_SUVOROV" Text="Alexander Suvorov" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_ROMANOV" Text="Michael Romanov" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAVEL_NAKHIMOV" Text="Pavel Nakhimov" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KONSTANIN_P_VON_KAUFMAN" Text="Konstantin P. Von Kaufman" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_VASILY_CHUIKOV" Text="Vasily Chuikov" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MIKHAIL_SKOBELEV" Text="Mikhail Skobelev" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MICHAEL_A_BARCLAY_DE_TOLLEY" Text="Michael A. Barclay de Tolly" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALYONA_ERZYMASSKAYA" Text="Alyona Erzymasskaya" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DANIIL_ALEKSANDROVICH" Text="Daniil Aleksandrovich" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PYOTR_IVANOVICH_BAGRATION" Text="Pyotr Ivanovich Bagration" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_KUTUZOV">
+			<Text>Mikhail Kutuzov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_IVANOV">
+			<Text>Nikolai Ivanov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BRUSILOV">
+			<Text>Aleksei Brusilov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROKOSSOVSKY">
+			<Text>Konstantin Rokossovsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VASILEVSKY">
+			<Text>Aleksandr Vasilevsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_VATUTIN">
+			<Text>Nikolai Fyodorovich Vatutin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_KONEV">
+			<Text>Ivan Konev</Text>
+		</Row>
+
+		<!-- CIVILIZATION_SHOSHONE -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIEF_JOSEPH" Text="Chief Joseph" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CRAZY_HORSE" Text="Crazy Horse" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_COCHISE" Text="Cochise" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_RED_CLOUD" Text="Red Cloud" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_QUANAH_PARKER" Text="Quanah Parker" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHIEF_WASHAKIE" Text="Chief Washakie" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BEAR_HUNTER" Text="Bear Hunter" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LITTLE_SOLDIER" Text="Chief Little Soldier" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CUERNO_VERDE" Text="Cuerno Verde" />
+
+
+		<!-- CIVILIZATION_SIAM -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_NARESUAN" Text="Naresuan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_EKATOTSAROT" Text="Ekatotsarot" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAKSIN" Text="Taksin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SURIYOTHAI" Text="Suriyothai" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_U_THONG" Text="U-thong" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHRAYA_PHICHAI" Text="Phraya Phichai" />
+
+
+
+		<!-- CIVILIZATION_SONGHAI -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASKIA_MUHAMMAD" Text="Askia Muhammad" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASKIA_DAUD" Text="Askia Daud" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUNDIATA" Text="Sundiata" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SUNNI_ALI" Text="Sunni Ali" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BITON_COULIBALY" Text="Biton Coulibaly" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NGOLO_DIARRA" Text="Ngolo Diarra" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASKIA_ISHAQ_II" Text="Askia Ishaq II" />
+
+		<!-- CIVILIZATION_SPAIN -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_PELAGIUS_ASTURIAS" Text="Pelagius of Asturias" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFONSO_I" Text="Alfonso I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFONSO_IV" Text="Alfonso VI" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ORDONO_I" Text="Ordono I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GONZALO_DE_CORDOBA" Text="Gonzalo de Cordoba" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALEXANDER_FARNESE" Text="Alexander Farnese" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_FRANCO" Text="Francisco Franco" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_CORONADO" Text="Francisco Coronado" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PHILLIP_II_SPAIN" Text="Philip II of Spain" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMBROSIO_SPINOLA_DORIA" Text="Ambrosio Spinola Doria" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CARDINAL_INFANTE_FERDINAND" Text="Cardinal-Infante Ferdinand" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOAQUIN_GARCIA_MORATO" Text="Joaquin Garcia-Morato" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PEDRO_DE_VALDIVIA" Text="Pedro de Valdivia" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PEDRO_NAVARRO" Text="Pedro Navarro" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOAQUIN_VARA_DE_REY" Text="Joaquin Vara de Rey" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JUAN_PONCE_DE_LEON" Text="Juan Ponce de Leon" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERNANDO_DE_SOTO" Text="Hernando de Soto" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARIA_PACHECO" Text="Maria Pacheco" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_INES_DE_SUAREZ" Text="Ines de Suarez" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PETER_III_ARAGON" Text="Peter III of Aragon" />
+
+
+		<!-- CIVILIZATION_SWEDEN -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_II_SWEDEN" Text="Charles XII" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NILS_BRAHE" Text="Nils Brahe" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERIC_BLOODAXE" Text="Eric Bloodaxe" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AXEL_GYLLENKROK" Text="Axel Gyllenkrok" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KNUT_JONSSON_POSSE" Text="Knut Jonsson Posse" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_OTTO_OTTOSON_VELLINGK" Text="Otto Ottoson Vellingk" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CONRAD_MARDEFELT" Text="Conrad Mardefelt" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_OLAF_GERHARD_THORNELL" Text="Olof Gerhard Thornell" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERNST_MATTIAS_VON_VEGESACK" Text="Ernst Mattias von Vegesack" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_THOMAS_VAN_DER_NOOT" Text="Thomas van der Noot" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ERIC_THE_VICTORIOUS" Text="Eric the Victorious" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_OLOF_SKOTKONUNG" Text="Olof Skotkonung" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHAN_BANER" Text="Johan Baner" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GISTAV_HORN_BJORNEBORG" Text="Gustav Horn af Bjorneborg" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BERNARD_SAXE_WEIMAR" Text="Bernard of Saxe-Weimar" />
+
+
+		<!-- CIVILIZATION_VENICE -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCO_ANTONIO_BRAGADIN" Text="Marco Antonio Bragadin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SIGISMONDO_PANDOLFO_MALATESTA" Text="Sigismondo Pandolfo Malatesta" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NICCOLO_PICCININO" Text="Niccolo Piccinino" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ASTORRE_BAGLIONI" Text="Astorre Baglioni" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LORENZO_TIEPOLO" Text="Lorenzo Tiepolo" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALVISE_MARTINENGO" Text="Alvise Martinengo" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GIANANTONIO_QUERINI" Text="Gianantonio Querini" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCANTONIO_II_COLONNA" Text="Marcantonio II Colonna" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_BERTOLDO_DESTE">
+			<Text>Marquis Bertoldo d'Este</Text>
+		</Row>
+
+
+		<!-- CIVILIZATION_ZULU -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_MPANDE" Text="Mpande" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZWELITHINI" Text="Zwelithini" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CETSHWAYO" Text="Cetshwayo" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NDLELA_KASOMPISI" Text="Ndlela kaSompisi" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSIAH_TONGOGARA" Text="Josiah Tongogara" />
+
+
+
+
+
+
+		<!-- GENERIC NO CIVILIZATION LINK -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_GARIBALDI" Text="Giuseppe Garibaldi" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAHMUD_OF_GHAZNI" Text="Mahmud of Ghazni" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_ZIZKA" Text="Jan Zizka" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_ISREAL" Text="King David" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_LAUTARO" Text="Lautaro" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSE_MIGUEL_CARRERA" Text="Jose Miguel Carrera" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_BRUCE" Text="Robert the Bruce" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALARIC_LRS" Text="Alaric" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_VO_NGUYEN_GIAP" Text="Vo Nguyen Giap" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_YITZHAK_RABIN" Text="Yitzhak Rabin" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SANTA_ANNA" Text="Antonio Lopez de Santa Anna" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANCISCO_VILLA" Text="Francisco Villa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_IGNACIO_ZARAGOZA" Text="Ignacio Zaragoza" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PRFIRIO_DIAZ" Text="Porfirio Diaz" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARDARIC_LRS" Text="Ardaric" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTIOCHUS_LRS" Text="Antiochus" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_THORISMUND" Text="Thorismund" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_THEODORIC_I" Text="Theodoric I" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANTONIO_JOSE_DE_SUCRE" Text="Antonio Jose de Sucre" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALFONSO_UGARTE" Text="Alfonso Ugarte" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDRES_AVELINO_CACERES" Text="Andres Avelino Caceres" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_EMILIO_CAVENECIA" Text="Emilio Cavenecia" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MIGUEL_MALVAR_CARPIO" Text="Miguel Malvar y Carpio" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTEMIO_RICARTE_GARCIA" Text="Artemio Ricarte y Garcia" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIO_ISIDRO_CASTENEDA" Text="Pio Isidro y Castaneda" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARIANO_LLANERA" Text="Mariano Llanera" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TRUNG_TRAC" Text="Trung Trac" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TRUNG_NHI" Text="Trung Nhi" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TRIEU_THI_TRINH" Text="Trieu Thi Trinh" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_ZENOBIA" Text="Zenobia" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AL_KAHINA" Text="al-Kahina" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_CACICA_GAITANA" Text="Cacica Gaitana" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JUANA_AZURDUY_PADILLA" Text="Juana Azurduy de Padilla" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUSSASA" Text="Mussasa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_SEH_DONG_HONG_BEH" Text="Seh-Dong-Hong-Beh" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BARTOLINA_SISA" Text="Bartolina Sisa" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AGUEDA_KAHABAGAN" Text="Agueda Kahabagan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TERESA_MAGBANUA" Text="Teresa Magbanua" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARGARITA_NERI" Text="Margarita Neri" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARIA_JOSEFA_SILANG" Text="Maria Josefa Silang" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_GJERGI_SKANDENBERG" Text="Gjergi Skandenberg" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_DAVID_IV_GEORGIA" Text="David IV of Georgia" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_TAMAR_THE_GREAT" Text="Tamar the Great" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NGUYEN_HUE" Text="Nguyen Hue" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_NURHACI" Text="Nurhaci" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUHAMMAD_BIN_DAWUD_CHAGHRI" Text="Muhammad bin Dawud Chaghri" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MIHAI_BRAVU" Text="Mihai Bravu" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AHMAD_SHAH_DURRANI" Text="Ahmad Shah Durrani" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOSIP_BROZ_TITO" Text="Josip Broz Tito" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AHMAD_IBN_IBRAHIM_AL_GFHAZI" Text="Ahmad ibn Ibrahim al-Ghazi" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_KANISHKA_THE_GREAT" Text="Kanishka the Great" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MUHAMMAD_SHAYBANI_KHAN" Text="Muhammad Shaybani Khan" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_AMINA_LRS" Text="Amina" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_BAYINNAUNG_NAWRAHTA" Text="Bayinnaung Nawrahta" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_WIDUKIND_LRS" Text="Widukind" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_STEFAN_LAZAREVIC" Text="Stefan Lazarevic" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_MATTHIAS_CORVINUS" Text="Matthias Corvinus" />
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIUS_II_LRS" Text="Pius II" />
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOUSSAINT_LOUVERTURE">
+			<Text>Toussaint L'Ouverture</Text>
+		</Row>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!-- UPDATE CHANGES TO EXISTING FIRAXIS-SUPPLIED NAMES -->
+		<!-- America -->
+		<Update>
+			<Set Text="George S. Patton"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_PATTON"/>
+		</Update>
+		<!-- Aztec -->
+		<Update>
+			<Set Text="Ahuitzotl"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_AUITZOTL"/>
+		</Update>
+		<!-- England -->
+		<Update>
+			<Set Text="Bernard Montgomery"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_MONTGOMERY"/>
+		</Update>
+		<!-- Germany -->
+		<Update>
+			<Set Text="Heinz Guderian"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_GUERDIAN"/>
+		</Update>
+		<Update>
+			<Set Text="Erwin Rommel"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_ROMMEL"/>
+		</Update>
+		<!-- Rome -->
+		<Update>
+			<Set Text="Gnaeus Pompeius"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_POMPEY"/>
+		</Update>
+		<!-- Russia -->
+		<Update>
+			<Set Text="Georgy Zhukov"/>
+			<Where Tag="TXT_KEY_GREAT_PERSON_ZHUKOV"/>
+		</Update>
+
+		<!--	<Update>
+			<Set Text="XXX"/>
+			<Where Tag="TXT_KEY_XXXX"/>
+		</Update>	-->
+
+		<!-- already being used in game somewhere
+		<Row Tag="TXT_KEY_GREAT_PERSON_TRAN_HUNG_DAO" Text="Tran Hung Dao" />
+
+
+
+		-->
+	</Language_en_US>
+</GameData>

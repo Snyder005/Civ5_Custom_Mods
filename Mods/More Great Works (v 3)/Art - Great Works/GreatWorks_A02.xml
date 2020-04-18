@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_PERSISTENCE_OF_MEMORY</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_PERSISTENCE_OF_MEMORY</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Salvador-Dali---The-Persistence-of-Memory.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_STUDY_AFTER_VELAZQUEZS_PORTRAIT_OF_POPE_INNOCENT_X</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_STUDY_AFTER_VELAZQUEZS_PORTRAIT_OF_POPE_INNOCENT_X</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Francis-Bacon---Study-after-Velazquezs-Portrait-of-Pope-Innocent-X.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BLUE_RIDER</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BLUE_RIDER</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Wassily-Kandinsky---The-Blue-Rider.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_FIGURE_5_IN_GOLD</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_FIGURE_5_IN_GOLD</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Charles-Demuth---The-Figure-5-in-Gold.dds</Image>
+		</Row>
+		
+	</GreatWorks>
+</GameData>

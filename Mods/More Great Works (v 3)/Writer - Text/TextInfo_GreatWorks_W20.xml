@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_LORD_OF_THE_RINGS">
+			<Text>"All that is gold does not glitter,[NEWLINE]Not all those who wander are lost."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_LORD_OF_THE_RINGS">
+			<Text>The Lord of the Rings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_GRAPES_OF_WRATH">
+			<Text>"For anybody else it was a mistake, but if you think it was a sin—then it's a sin. A fella builds his own sins right up from the groun'."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_GRAPES_OF_WRATH">
+			<Text>The Grapes of Wrath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_WASTE_LAND">
+			<Text>"I will show you fear in a handful of dust."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_WASTE_LAND">
+			<Text>The Waste Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_DR_ZHIVAGO">
+			<Text>"What for centuries raised man above the beast is not the cudgel but the irresistible power of unarmed truth."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DR_ZHIVAGO">
+			<Text>Dr. Zhivago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ATLAS_SHRUGGED">
+			<Text>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ATLAS_SHRUGGED">
+			<Text>Atlas Shrugged</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

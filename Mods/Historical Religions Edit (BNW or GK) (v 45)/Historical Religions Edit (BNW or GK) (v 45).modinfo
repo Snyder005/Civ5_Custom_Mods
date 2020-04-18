@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" version="45">
+  <Properties>
+    <Name>Historical Religions Edit (BNW or GK)</Name>
+    <Teaser>Adds 13 historical religions to the base game.</Teaser>
+    <Description>This is an edit of my Historical Religions mod, which can be found here:
+[NEWLINE]
+[NEWLINE]http://steamcommunity.com/sharedfiles/filedetails/?id=104252536
+[NEWLINE]
+[NEWLINE]This mod adds 13 additional religions for a total of 26 religions in-game. All official in-game civs have been updated to have an appropriate historical religious preference. 
+[NEWLINE]
+[NEWLINE]For additional details please see the download page of the main Historical Religions mod, linked above.
+[NEWLINE]
+[NEWLINE]- Buddhism (Siam) 
+[NEWLINE]- Catholicism (France, Austria, Spain, Brazil, Poland, Portugal, Venice) 
+[NEWLINE]- Eastern Orthodoxy (Russia, Byzantium) 
+[NEWLINE]- Protestantism (America, England, Germany, Netherlands, Sweden) 
+[NEWLINE]- Confucianism (Korea) 
+[NEWLINE]- Hinduism (India, Indonesia) 
+[NEWLINE]- Islam (Arabia, Ottoman, Songhai, Morocco) 
+[NEWLINE]- Judaism 
+[NEWLINE]- Shinto (Japan) 
+[NEWLINE]- Sikhism 
+[NEWLINE]- Taoism (China) 
+[NEWLINE]- Tengriism (Huns, Mongolia) 
+[NEWLINE]- Zoroastrianism (Persia) 
+[NEWLINE]
+[NEWLINE]- Hellenism (Greece, Rome)
+[NEWLINE]- Pesedjet (Egypt)
+[NEWLINE]- Canaanism (Carthage)
+[NEWLINE]- Chaldeanism (Babylon, Assyria)
+[NEWLINE]- Druidism (Celtica)
+[NEWLINE]- Forn Siðr (Denmark)
+[NEWLINE]- Orenda (Iroquois)
+[NEWLINE]- Manaism  (Polynesia)
+[NEWLINE]- Tlateomatiliztli (Aztec, Maya)
+[NEWLINE]- Pachaism (Inca)
+[NEWLINE]- Amatongo (Zulu) 
+[NEWLINE]- Pohakantenna (Shoshone) 
+[NEWLINE]- Oriental Orthodoxy (Ethiopia)</Description>
+    <Authors>Tomatekh</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=478532</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>45</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </References>
+  <Blocks>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef " minversion="0" maxversion="999" title="HR" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="HR Complete" />
+  </Blocks>
+  <Files>
+    <File md5="533A9FE5BA383819BDD312B36DD1847B" import="1">Art/HistoricalReligionsMaster128.dds</File>
+    <File md5="695044BC85270A00DA09D9D0445DE574" import="1">Art/HistoricalReligionsMaster16.dds</File>
+    <File md5="4E4E68CC946C1E9039DA87B9D03093CB" import="1">Art/HistoricalReligionsMaster214.dds</File>
+    <File md5="29A3F1020B48EC8B1A12D0968FBA5A81" import="1">Art/HistoricalReligionsMaster24.dds</File>
+    <File md5="661479A4A55CC24886A3143AD1088495" import="1">Art/HistoricalReligionsMaster256.dds</File>
+    <File md5="551FFA00791EE3DA618B73EF941F4C7B" import="1">Art/HistoricalReligionsMaster32.dds</File>
+    <File md5="9A766B2771BFED97DB627D34FCE818E0" import="1">Art/HistoricalReligionsMaster48.dds</File>
+    <File md5="2FEEC8CF0481BDAD7E0FD276106A7234" import="1">Art/HistoricalReligionsMaster64.dds</File>
+    <File md5="EE99A2D0024C0C640F8879DCD1504732" import="1">Art/HistoricalReligionsMaster80.dds</File>
+    <File md5="82CF3356570539F90AD300F2E196AEC7" import="1">Art/HistoricalReligionsMasterFontIcons.dds</File>
+    <File md5="091AFF29C8CABE7A284F743451203DDF" import="1">Art/HistoricalReligionsMasterFontIcons.ggxml</File>
+    <File md5="B9FA7F4B633D0962F89F1D48426150A6" import="0">SQL/HistoricalReligionsEditArt.sql</File>
+    <File md5="C9FF4D16E86015D4D678059CE539EF47" import="0">SQL/HistoricalReligionsEditPreference.sql</File>
+    <File md5="687E3F00AB3953D19E32EE953F4C1E22" import="0">SQL/HistoricalReligionsEditReligion.sql</File>
+    <File md5="1DDF3051BF8CD090780549D5946B8625" import="0">XML/HistoricalReligions Edits.xml</File>
+    <File md5="18A70FB7017BB4660E4DE88917C26DCE" import="0">XML/Historical Religions Mod Text.xml</File>
+    <File md5="B15C6DE7FDD39A1E99A808D3C5FB7A3A" import="0">XML/Non-English XML Tags/Historical Religions Text DE_DE.xml</File>
+    <File md5="A2D62DD8568730DA7426A6128B805DB9" import="0">XML/Non-English XML Tags/Historical Religions Text ES_ES.xml</File>
+    <File md5="7171B9F140FCD6FC037FC21CEEF480D8" import="0">XML/Non-English XML Tags/Historical Religions Text FR_FR.xml</File>
+    <File md5="47F271BEEE4D8A821AF1A6D2F90AB261" import="0">XML/Non-English XML Tags/Historical Religions Text IT_IT.xml</File>
+    <File md5="26CE71713CF2405BA89D61AF051B2418" import="0">XML/Non-English XML Tags/Historical Religions Text JA_JP.xml</File>
+    <File md5="56CDB68BB2F96554A1CC5CDAF83CAC1E" import="0">XML/Non-English XML Tags/Historical Religions Text KO_KR.xml</File>
+    <File md5="A9DE9F392D76926BB72E3F02C89259E6" import="0">XML/Non-English XML Tags/Historical Religions Text PL_PL.xml</File>
+    <File md5="E9800549413764CA553AB85677617A8E" import="0">XML/Non-English XML Tags/Historical Religions Text RU_RU.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/HistoricalReligionsEditArt.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/HistoricalReligionsEditReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/HistoricalReligionsEditPreference.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Historical Religions Mod Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Non-English XML Tags/Historical Religions Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HistoricalReligions Edits.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

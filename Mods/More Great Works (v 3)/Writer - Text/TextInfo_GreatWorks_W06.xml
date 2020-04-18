@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_PIPPI_LONGSTOCKING">
+			<Text>"The children came to a perfume shop. In the show window was a large jar of freckle salve, and beside the jar was a sign, which read: DO YOU SUFFER FROM FRECKLES?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PIPPI_LONGSTOCKING">
+			<Text>Pippi Longstocking</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

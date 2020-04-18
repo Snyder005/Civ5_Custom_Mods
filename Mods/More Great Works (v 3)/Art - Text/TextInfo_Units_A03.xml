@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_WASSILY_KANDINSKY">
+			<Text>Wassily Kandinsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_DEMUTH">
+			<Text>Charles Demuth</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

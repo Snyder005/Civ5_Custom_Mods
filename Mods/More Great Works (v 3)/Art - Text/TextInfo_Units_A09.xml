@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_TOM_THOMSON">
+			<Text>Tom Thomson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_SINGER_SARGENT">
+			<Text>John Singer Sargent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_AN_GYEON">
+			<Text>An Gyeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIERO_DI_COSIMO">
+			<Text>Piero di Cosimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BENOZZO_GOZZOLI">
+			<Text>Benozzo Gozzoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROGIER_VAN_DER_WEYDEN">
+			<Text>Rogier van der Weyden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBRECHT_ALTDORFER">
+			<Text>Albrecht Altdorfer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_ASSELIJN">
+			<Text>Jan Asselijn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JAN_STEEN">
+			<Text>Jan Steen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THERESE_SCHWARTZE">
+			<Text>Therese Schwartze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAREL_FABRITIUS">
+			<Text>Carel Fabritius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRANZ_HALS">
+			<Text>Franz Hals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDERS_ZORN">
+			<Text>Anders Zorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANGELICA_KAUFFMAN">
+			<Text>Angelica Kauffman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HELEN_FRANKENTHALER">
+			<Text>Helen Frankenthaler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTEMISIA_GENTILESCHI">
+			<Text>Artemisia Gentileschi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DUCCIO">
+			<Text>Duccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_SELDON_DUNCANSON">
+			<Text>Robert Seldon Duncanson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROSA_BONHEUR">
+			<Text>Rosa Bonheur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RICHARD_DIEBENKORN">
+			<Text>Richard Diebenkorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_BERTHE_MORISOT">
+			<Text>Berthe Morisot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHAIM_SOUTINE">
+			<Text>Chaim Soutine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARSHILE_GORKY">
+			<Text>Arshile Gorky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGIA_OKEEFFE">
+			<Text>Georgia O'Keeffe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PIERRE_BONNARD">
+			<Text>Pierre Bonnard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HANS_BELLMER">
+			<Text>Hans Bellmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_USTAD_MANSUR">
+			<Text>Ustad Mansur</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

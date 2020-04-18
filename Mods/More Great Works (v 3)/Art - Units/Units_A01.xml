@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Unit_UniqueNames>
+		<!-- Great Artists -->
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_AFFANDI</UniqueName>
+			<GreatWorkType>GREAT_WORK_GREAT_WALL_OF_CHINA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MARCEL_DUCHAMP</UniqueName>
+			<GreatWorkType>GREAT_WORK_NUDE_DESCENDING_A_STAIRCASE_NO_2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MAX_ERNST</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_TRIUMPH_OF_SURREALISM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JASPER_JOHNS</UniqueName>
+			<GreatWorkType>GREAT_WORK_ZERO_THROUGH_NINE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_M_C_ESCHER</UniqueName>
+			<GreatWorkType>GREAT_WORK_ASCENDING_AND_DESCENDING</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_EDVARD_MUNCH</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_SCREAM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JACKSON_POLLOCK</UniqueName>
+			<GreatWorkType>GREAT_WORK_NO_1</GreatWorkType>
+		</Row>
+		
+		
+	</Unit_UniqueNames>
+</GameData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_FRIEDRICH_NIETZCHE">
+			<Text>Friedrich Nietzche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOHN_MILTON">
+			<Text>John Milton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HERODOTUS">
+			<Text>Herodotus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PERCY_BYSSHE_SHELLEY">
+			<Text>Percy Bysshe Shelley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NOAM_CHOMSKY">
+			<Text>Noam Chomsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CHARLES_BUKOWSKI">
+			<Text>Charles Bukowski</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

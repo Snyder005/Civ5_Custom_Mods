@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:13 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_TIGER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_TIGER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_TIGER</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HARRY_POTTER_AND_THE_DEATHLY_HALLOWS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_1_X_1</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_1_X_1</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_1_X_1</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DEATH_OF_A_SALESMAN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DEATH_OF_A_SALESMAN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DEATH_OF_A_SALESMAN</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FOUNDATION</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FOUNDATION</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_FOUNDATION</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CRACK_THE_BLADE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CRACK_THE_BLADE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_CRACK_THE_BLADE</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_CATCHER_IN_THE_RYE">
+			<Text>"I am always saying "Glad to've met you" to somebody I'm not at all glad I met. If you want to stay alive, you have to say that stuff, though."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CATCHER_IN_THE_RYE">
+			<Text>The Catcher in the Rye</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

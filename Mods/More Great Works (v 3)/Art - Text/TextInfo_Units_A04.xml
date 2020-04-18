@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_THEOPHANES">
+			<Text>Theophanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_GEORGES_BRAQUE">
+			<Text>Georges Braque</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

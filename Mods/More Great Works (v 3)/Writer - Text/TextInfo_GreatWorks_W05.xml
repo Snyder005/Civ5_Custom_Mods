@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_TRIAL">
+			<Text>"The right understanding of any matter and a misunderstanding of the same matter do not wholly exclude each other."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TRIAL">
+			<Text>The Trial</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

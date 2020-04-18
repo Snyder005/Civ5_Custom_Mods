@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_zh_Hant_HK>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MOSES">
+			<Text>摩西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MAHAVIRA">
+			<Text>尊者大雄</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ZOROASTER">
+			<Text>琐罗亚斯德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ANANDA">
+			<Text>阿难陀尊者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ZHUANG_ZHOU">
+			<Text>庄子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CONFUCIUS">
+			<Text>孔子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MENCIUS">
+			<Text>孟子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MO_DI">
+			<Text>墨子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JOHN_THE_BAPTIST">
+			<Text>施洗者约翰</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SIMON_PETER">
+			<Text>使徒彼得</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_PAUL_THE_APOSTLE">
+			<Text>使徒保罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_RABBI_AKIVA">
+			<Text>阿基瓦·本·约瑟夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MANI">
+			<Text>摩尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_AUGUSTINE_OF_HIPPO">
+			<Text>希波的奥古斯丁</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ST_PATRICK">
+			<Text>圣帕特里克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ADI_SHANKARA">
+			<Text>阿迪·商羯罗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ATISHA">
+			<Text>燃灯吉祥智</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_THOMAS_AQUINAS">
+			<Text>托马斯·阿奎纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BAHAULLAH">
+			<Text>巴哈欧拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_DIVICIACUS">
+			<Text>迪维西库斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_TENSKWATAWA">
+			<Text>肯斯卡瓦塔瓦</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CHRISTIAN_ROSENKREUZ">
+			<Text>克里斯蒂安·罗森克鲁兹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HERMES_TRISMEGISTUS">
+			<Text>赫耳墨斯·特里斯墨吉斯忒斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MAIMONIDES">
+			<Text>迈蒙尼德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GESAR">
+			<Text>格萨尔王</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_TSONGKHAPA">
+			<Text>宗喀巴大师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MARSILIO_FICINO">
+			<Text>马尔西利奥·费奇诺</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ISAAC_LURIA">
+			<Text>以撒·卢里亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_RAMAKRISHNA">
+			<Text>罗摩克里希纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_NARAYANA_GURU">
+			<Text>那罗延大师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ABRAHAM_ABULAFIA">
+			<Text>亚伯拉罕·阿布拉菲亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ABU_BAKR">
+			<Text>阿布·伯克尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KOBO_DAISHI">
+			<Text>弘法大师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KHIDR_REDUX">
+			<Text>海德尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MOSES_DE_LEON">
+			<Text>莱昂的摩西</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_NANAK_DEV">
+			<Text>那纳克·德夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_PYTHAGORAS">
+			<Text>毕达哥拉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_NOSTRADAMUS">
+			<Text>诺查丹玛斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_LAO_TZU">
+			<Text>老子</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ISAIAH">
+			<Text>以赛亚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ELIJAH">
+			<Text>伊莱贾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HENRY_CORNELIUS_AGRIPPA">
+			<Text>阿格里帕·冯·内特斯海姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GAUTAMA_BUDDHA">
+			<Text>乔达摩·悉达多</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MUHAMMAD">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JESUS_OF_NAZARETH">
+			<Text>拿撒勒的耶稣</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BAAL_SHEM_TOV">
+			<Text>巴尔·谢姆·托夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_IAMBLICHUS">
+			<Text>杨布里科斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ALEISTER_CROWLEY">
+			<Text>阿莱斯特·克劳利</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HELENA_BLAVATSKY">
+			<Text>海伦娜·布拉瓦茨基</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MARIE_LAVEAU">
+			<Text>玛丽·拉沃</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_EMANUEL_SWEDENBORG">
+			<Text>伊曼纽·斯威登堡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ALLAN_KARDEC">
+			<Text>亚兰·卡甸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_NAKAYAMA_MIKI">
+			<Text>中山美伎</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_L_RON_HUBBARD">
+			<Text>罗恩·哈伯德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JOSEPH_SMITH">
+			<Text>约瑟夫·史密斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_AKHENATEN">
+			<Text>阿肯那顿</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GRIGORI_RASPUTIN">
+			<Text>格里高利·叶菲莫维奇·拉斯普京</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_IZUMO_NO_OKUNI">
+			<Text>卑弥呼</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MARY_BAKER_EDDY">
+			<Text>玛丽·莫尔斯·贝克·埃迪</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MARTIN_LUTHER">
+			<Text>马丁·路德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JOHN_CALVIN">
+			<Text>约翰·加尔文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_EZEKIEL">
+			<Text>以西结</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ARIUS">
+			<Text>阿里乌斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CHOE_JE_U">
+			<Text>崔济愚</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BAB">
+			<Text>巴孛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_WULFILA">
+			<Text>乌尔菲拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CHARLES_TAZE_RUSSELL">
+			<Text>查尔斯·泰兹·罗素</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SOJOURNER_TRUTH">
+			<Text>索杰纳·特鲁思</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JOHN_DEE">
+			<Text>约翰·迪伊</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_PICO_DELLA_MIRANDOLA">
+			<Text>皮科·德拉·米兰多拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JACOB_BOEHME">
+			<Text>雅各布·伯梅</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ALI_IBN_ABI_TALIB">
+			<Text>阿里·伊本·艾比·塔利卜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GHAZALI">
+			<Text>安萨里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_IBRAHIM_IBN_ADHAM">
+			<Text>易卜拉欣·伊本·阿扎姆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JOAN_OF_ARC">
+			<Text>本居宣长</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ORUNMILA">
+			<Text>奥鲁米拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HANDSOME_LAKE">
+			<Text>汉德瑟姆·莱克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_TLACAELEL">
+			<Text>特拉凯利尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KHOKHCUU">
+			<Text>通天巫·阔阔出</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_NAGAJURNA">
+			<Text>龙树菩萨</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SMOHALLA">
+			<Text>苏姆哈拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_WOVOKA">
+			<Text>沃沃卡</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SERAPHIM">
+			<Text>萨罗夫的撒拉弗</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_M_FOX">
+			<Text>玛格丽特·福克斯</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GREAT_PEACE_MAKER">
+			<Text>德坎纳维达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CASSANDRA">
+			<Text>卡珊德拉</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_VIVEKANANDA">
+			<Text>辨喜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ZHU_XI">
+			<Text>朱熹</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ELLEN_G_WHITE">
+			<Text>埃伦·古尔德·怀特</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_JIDDU_MOD">
+			<Text>吉杜·克里希那穆提</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MORYA_MOD">
+			<Text>Angad Dev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BHARADWAJA_MOD">
+			<Text>圣希尔德加德·冯·宾根</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_YAJANAVALKYA_MOD">
+			<Text>祭皮衣仙</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_POPAY_MOD">
+			<Text>大力水手·波派</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MERLIN_MOD">
+			<Text>米尔丁·威尔特</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_PEYOTE_MOD">
+			<Text>夸纳·帕克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_THEURGY_MOD">
+			<Text>巫术师朱利安</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_TYANA_MOD">
+			<Text>提安娜的阿波罗尼奥斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SIMON_MAGUS">
+			<Text>西门·马吉斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ZEVI_REDUX">
+			<Text>沙巴蒂·萨维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_GUAN_YU">
+			<Text>关二爷</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_AL_HAKIM">
+			<Text>哈基姆·穆萨·阿拉</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SUGAWARA">
+			<Text>菅原道真</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_VELEDA">
+			<Text>维蕾德</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KHLYSTS">
+			<Text>克利斯次</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ADAPA_AKULLU">
+			<Text>阿达帕</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ORPHEUS_MOD">
+			<Text>俄耳甫斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ARJAN_MOD">
+			<Text>阿见大师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_WICCA_MOD">
+			<Text>杰拉尔德 加德纳</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MAHIKARI_MOD">
+			<Text>冈田良一</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HAR_GOBIND_MOD">
+			<Text>哈尔·戈宾德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ANI_THEBES_MOD">
+			<Text>阿尼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_UTUABZU_MOD">
+			<Text>乌图阿朱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_AN_ENLILDA_MOD">
+			<Text>安-恩利尔达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_RISHABHA_MOD">
+			<Text>勒舍波提婆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_DRUZE_MOD">
+			<Text>哈姆扎·伊本·阿里·伊本·艾哈迈德</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BERBER_MOD">
+			<Text>萨利赫·伊本·塔里夫</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_CHAAN_MOD">
+			<Text>达摩祖师</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_SHUGENDO_MOD">
+			<Text>役行者小角</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KABIR_MOD">
+			<Text>迦比尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_HARE_KRISHNA_MOD">
+			<Text>主柴坦尼亚·摩诃巴布</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_MAZDAK_MOD">
+			<Text>玛兹达</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_BUDDHIST_BON_MOD">
+			<Text>敦巴辛饶</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_YARSAN_MOD">
+			<Text>萨哈克</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_METHODIST_MOD">
+			<Text>约翰·卫斯理</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_KRIWE">
+			<Text>克列维</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_YAZIDI_MOD">
+			<Text>阿迪·伊本·穆萨菲尔</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ETRUSCAN_MOD">
+			<Text>塔格斯</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_ETRUSCAN_TWO_MOD">
+			<Text>维哥娅</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_LAST_SIKH_MOD">
+			<Text>戈宾德·辛格</Text>
+		</Row>
+		<!-- And one scientist... -->
+		<Row Tag="TXT_KEY_HISTORICAL_MOD_GREAT_PERSON_PARACELSUS">
+			<Text>帕拉塞尔苏斯</Text>
+		</Row>
+	</Language_zh_Hant_HK>
+</GameData>

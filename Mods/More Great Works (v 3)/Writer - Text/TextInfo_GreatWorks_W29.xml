@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LE_MORTE_DARTHUR">
+			<Text>"The joy of love is too short, and the sorrow thereof, and what cometh thereof, dureth over long."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LE_MORTE_DARTHUR">
+			<Text>Le Morte d'Arthur (The Death of Arthur)</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:22:13 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_LORD_OF_THE_RINGS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_LORD_OF_THE_RINGS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_LORD_OF_THE_RINGS</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_GRAPES_OF_WRATH</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_GRAPES_OF_WRATH</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_GRAPES_OF_WRATH</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_WASTE_LAND</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_WASTE_LAND</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_WASTE_LAND</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DR_ZHIVAGO</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DR_ZHIVAGO</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_DR_ZHIVAGO</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ATLAS_SHRUGGED</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ATLAS_SHRUGGED</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ATLAS_SHRUGGED</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GreatWriter_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

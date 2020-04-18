@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FAHRENHEIT_451">
+			<Text>"If you hide your ignorance, no one will hit you and you'll never learn."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FAHRENHEIT_451">
+			<Text>Fahrenheit 451</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

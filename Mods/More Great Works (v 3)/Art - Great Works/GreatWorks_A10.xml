@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_HATSUHANA_DOING_PENANCE_UNDER_THE_TONOSAWA_WATERFALL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HATSUHANA_DOING_PENANCE_UNDER_THE_TONOSAWA_WATERFALL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Utagawa-Kuniyoshi---Hatsuhana-Doing-Penance-Under-the-Tonosawa-Waterfall.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b8186f84-5edc-4185-98ce-a91f18d767c7" version="3">
+  <Properties>
+    <Name>More Great Works</Name>
+    <Teaser>Adds a large amount of Artist and Writer Great Works.</Teaser>
+    <Description>Adds a large amount of Artist and Writer Great Works to Civilization V. Contains 50 Great Works of Writing and 82 Great Works of Art. All names and titles are used for no profit of my own and with full acknowledgement that all rights belong to the original artist or writer, under the Fair Use Copyright Act. This mod requires Civilization V: Brave New World.</Description>
+    <Authors>Loren Sandboe (Qoma)</Authors>
+    <SpecialThanks>Firaxis, XboxAddict77, donquiche</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="FFB43465C1B5DD03C46886A45278FA6B" import="0">Art - Great Works/GreatWorks_A11.xml</File>
+    <File md5="E1D215C4D4ACEF11FBC49C2203A9120A" import="0">Art - Great Works/GreatWorks_A10.xml</File>
+    <File md5="122DF2961A51E0B663D8DB4AB5B37527" import="0">Art - Great Works/GreatWorks_A09.xml</File>
+    <File md5="D8B8E5D467ECC1D284C86B7F40B716D6" import="0">Art - Great Works/GreatWorks_A08.xml</File>
+    <File md5="85B051796DB6B442D7443D0895114DFB" import="0">Art - Great Works/GreatWorks_A07.xml</File>
+    <File md5="1F3F0CC09148D4B940A064D34E3A8DC6" import="0">Art - Great Works/GreatWorks_A06.xml</File>
+    <File md5="852C0CE386271A15472823C81ED3303F" import="0">Art - Great Works/GreatWorks_A05.xml</File>
+    <File md5="4DCB57613F04DEC898342FF8B1B2FE87" import="0">Art - Great Works/GreatWorks_A04.xml</File>
+    <File md5="66727CA03DD0B26EEB37A02D37A6E24A" import="0">Art - Great Works/GreatWorks_A03.xml</File>
+    <File md5="D6E99EFE4E9A36CBA08596761560472D" import="0">Art - Great Works/GreatWorks_A02.xml</File>
+    <File md5="DE8C87F74D547B3148944CA09AAD0A1C" import="0">Art - Great Works/GreatWorks_A01.xml</File>
+    <File md5="449C8B5DF5B2CA4EA05CDAE756BBF600" import="0">Art - Text/TextInfo_GreatWorks_A11.xml</File>
+    <File md5="07CA9B9C4F56DCCC97A16DBC7B161EC6" import="0">Art - Text/TextInfo_Units_A11.xml</File>
+    <File md5="7F71FD94A00C76467270919375CB56A8" import="0">Art - Text/TextInfo_GreatWorks_A10.xml</File>
+    <File md5="DFF64F79EAB2630C3E4B8034217B82CE" import="0">Art - Text/TextInfo_Units_A10.xml</File>
+    <File md5="72FE71A8E0A15D7DAB8D884BB485CB3D" import="0">Art - Text/TextInfo_GreatWorks_A09.xml</File>
+    <File md5="1F5C55226DB593A3F0380F04B1A8EB5E" import="0">Art - Text/TextInfo_Units_A09.xml</File>
+    <File md5="9414BF584EC469192A521EF325E5E4F3" import="0">Art - Text/TextInfo_GreatWorks_A08.xml</File>
+    <File md5="6D082EDEACB444440828FB8B2994D799" import="0">Art - Text/TextInfo_Units_A08.xml</File>
+    <File md5="CC4B7F8C1F4029E4D747493757CA9727" import="0">Art - Text/TextInfo_GreatWorks_A07.xml</File>
+    <File md5="1F1358D7F5DAD928C52CA70BC39ADF77" import="0">Art - Text/TextInfo_Units_A07.xml</File>
+    <File md5="82A308086DFC1ABBF1FBD569AD4E9947" import="0">Art - Text/TextInfo_Units_A06.xml</File>
+    <File md5="9D9503A2733ED2BC1E71C4E258D736FA" import="0">Art - Text/TextInfo_GreatWorks_A06.xml</File>
+    <File md5="60958116D009855168529C479900061D" import="0">Art - Text/TextInfo_GreatWorks_A05.xml</File>
+    <File md5="C4B6419237C5281D98564121C36B8C7A" import="0">Art - Text/TextInfo_Units_A05.xml</File>
+    <File md5="48BE8937E835FAD4D26D4BE98A028BD8" import="0">Art - Text/TextInfo_GreatWorks_A04.xml</File>
+    <File md5="8015DD1BB585372E5738F3AEC2907448" import="0">Art - Text/TextInfo_Units_A04.xml</File>
+    <File md5="8226823D519A92DAC8608B896F2BFDB6" import="0">Art - Text/TextInfo_Units_A03.xml</File>
+    <File md5="9C98D83EEDF9636D0A5C49E13FCD6722" import="0">Art - Text/TextInfo_GreatWorks_A03.xml</File>
+    <File md5="E74C6C57635C0F8CAE1FD92F527E6D35" import="0">Art - Text/TextInfo_Units_A02.xml</File>
+    <File md5="630CAEAD7A5189CA7C615E500A646797" import="0">Art - Text/TextInfo_GreatWorks_A02.xml</File>
+    <File md5="D98EFDB670BD232A66663668F242F214" import="0">Art - Text/TextInfo_GreatWorks_A01.xml</File>
+    <File md5="96D405B90DB1C35EF0CC6ECD9B8D9633" import="0">Art - Text/TextInfo_Units_A01.xml</File>
+    <File md5="05C29EEFBCDAA24F346B5AE4AB89889D" import="0">Art - Units/Units_A11.xml</File>
+    <File md5="80CD4D8A1CE1CCD58722526612797556" import="0">Art - Units/Units_A10.xml</File>
+    <File md5="7C02FFBE15A6AFDAD7F820294F9D9D7F" import="0">Art - Units/Units_A09.xml</File>
+    <File md5="98025E34B8254B5AC692920949741246" import="0">Art - Units/Units_A08.xml</File>
+    <File md5="747AC246B7CC48D6DB4BAC60114D4301" import="0">Art - Units/Units_A07.xml</File>
+    <File md5="58ECF60E38D66FC21F6BDD10AF1C3F32" import="0">Art - Units/Units_A06.xml</File>
+    <File md5="F4C80F685CE1B6D2148192B85511C1CC" import="0">Art - Units/Units_A05.xml</File>
+    <File md5="3149D42A8D67C104D4A6CEC22E05B8A3" import="0">Art - Units/Units_A04.xml</File>
+    <File md5="6A4A01EE2AAC3CD1BA8F449CDC263F34" import="0">Art - Units/Units_A03.xml</File>
+    <File md5="8AF247295877769BD570840BD6614662" import="0">Art - Units/Units_A02.xml</File>
+    <File md5="EA04C324404C7B826CB49E86ACBAC8FE" import="0">Art - Units/Units_A01.xml</File>
+    <File md5="F93FBD787951659B4D6CA6C9FB1DEADC" import="1">Art/GW_Affandi---Great-Wall-of-China.dds</File>
+    <File md5="49B725A5178003855ED3B8CE44987A6D" import="1">Art/GW_Albrecht-Altdorfer---The-Battle-of-Alexander-at-Issus.dds</File>
+    <File md5="34883490F11D66381A7B87F6AC07B21B" import="1">Art/GW_Albrecht-Durer---The-Knight-Death-and-the-Devil.dds</File>
+    <File md5="6518E25170CDF4432B577483821EE298" import="1">Art/GW_An-Gyeon---Dream-Journey-to-the-Peach-Blossom-Land.dds</File>
+    <File md5="BCE56BBA31DC5C302203A39AC8B96277" import="1">Art/GW_Anders-Zorn---Omnibus-Paris.dds</File>
+    <File md5="FDD050780F7E7773B48BD9AFEDE01A9D" import="1">Art/GW_Andy-Warhol---Che-Guevera.dds</File>
+    <File md5="7499F8413185994D6493ED96325444F8" import="1">Art/GW_Angelica-Kauffman---Penelope-is-Woken-by-Euryclea.dds</File>
+    <File md5="8EB26DB260E4CD38A68F02998AC6CBA4" import="1">Art/GW_Arshile-Gorky---The-Liver-is-the-Cocks-Comb.dds</File>
+    <File md5="B7492FD6F9CC0DD67DB61B1906284ED4" import="1">Art/GW_Artemisia-Gentileschi---Judith-Beheading-Holofernes.dds</File>
+    <File md5="E5480D31746B1164EB783EAECE923594" import="1">Art/GW_Benito-Quinquela-Martin---Ship-Under-Repair.dds</File>
+    <File md5="8EDD744FFCE49289AE16FD3F934997BD" import="1">Art/GW_Benozzo-Gozzoli---Palaeologus.dds</File>
+    <File md5="34833B2DFBEE5740E3DFAA081F62E9C4" import="1">Art/GW_Berthe-Morisot---The-Old-Track-to-Auvers.dds</File>
+    <File md5="005E5D0A77A6F27DAA41F21C0D3ADECB" import="1">Art/GW_Carel-Fabritius---The-Goldfinch.dds</File>
+    <File md5="0566CD18C4C0B287EA1469D05241219A" import="1">Art/GW_Chaim-Soutine---Carcass-of-Beef.dds</File>
+    <File md5="B1771480FBD93C3158C301862A2DE001" import="1">Art/GW_Charles-Demuth---The-Figure-5-in-Gold.dds</File>
+    <File md5="E5E3DEC38D3358D8E82B1098436F5D8E" import="1">Art/GW_Cimabue---Kristi-Gripande.dds</File>
+    <File md5="EA8EE288BC1D4576C07D1C1F75B8C962" import="1">Art/GW_Duccio---Madonna-and-Child.dds</File>
+    <File md5="9AB686A0DD48DAEB9A872AE63E46AA69" import="1">Art/GW_Edvard-Munch---The-Scream.dds</File>
+    <File md5="3FC660D37AA4336DDB933DA95AED7C1B" import="1">Art/GW_Edward-Hopper---Nighthawks.dds</File>
+    <File md5="C58F7D205F13595279251FBEBE164B35" import="1">Art/GW_Egon-Schiele---Fighter.dds</File>
+    <File md5="539DF1FCFF9DA62871940A0D6A59F141" import="1">Art/GW_El-Lissitzky---Beat-the-Whites-with-the-Red-Wedge.dds</File>
+    <File md5="72E0B713445662E6533148141FE90490" import="1">Art/GW_Fernand-Leger---Soldier-with-a-Pipe.dds</File>
+    <File md5="70C72924647490D144749FDF61B34715" import="1">Art/GW_Francis-Bacon---Study-after-Velazquezs-Portrait-of-Pope-Innocent-X.dds</File>
+    <File md5="8A99274350EE8B322FA64A4A897E8081" import="1">Art/GW_Franz-Hals---Boy-Playing-a-Violin.dds</File>
+    <File md5="8CA7FFC3C57EB46B23C03F7D53D52A78" import="1">Art/GW_Franz-Marc---The-Fox.dds</File>
+    <File md5="CA2891A7304D758C5A9D3D602A059C63" import="1">Art/GW_Gebroeders-van-Limburg---The-Anatomy-of-Man.dds</File>
+    <File md5="C80B8E3A8A368C425050B2E7069C06C1" import="1">Art/GW_Georges-Braque---Clarinet-and-Bottle-of-Rum-on-a-Mantelpiece.dds</File>
+    <File md5="B8210A18392A0305D95AEBCD783C121C" import="1">Art/GW_Georges-Rouault---The-Old-King.dds</File>
+    <File md5="600C8F1280A450522693C15A2AD16790" import="1">Art/GW_Georgia-OKeeffe---From-the-Lake.dds</File>
+    <File md5="B37C51E83CFC1FF3A71CF24F5D2F8FA2" import="1">Art/GW_Gerhard-Richter---Abstract-Painting-780-1.dds</File>
+    <File md5="91C70518FD0727973960AABF7307DEBE" import="1">Art/GW_Gustave-Courbet---The-Man-Made-Mad-by-Fear.dds</File>
+    <File md5="7762D5B4B562D98B82731DEFE97F60A3" import="1">Art/GW_Gustave-Dore---Paolo-and-Francesca-II.dds</File>
+    <File md5="48A90924DAA64DFF7143F5BBE9025066" import="1">Art/GW_Hans-Bellmer---Peg-Top.dds</File>
+    <File md5="5A0410A7E325019BC201A1C7A3570E26" import="1">Art/GW_Helen-Frankenthaler---Mountains-and-Sea.dds</File>
+    <File md5="F9350D98196EA80066B2546DB67AF047" import="1">Art/GW_Henri-Edmond-Cross---The-Iles-dOr.dds</File>
+    <File md5="01D2864B73F476E8A4DCE039C274A68B" import="1">Art/GW_Henri-Matisse---Dance-II.dds</File>
+    <File md5="E2EDF92D75F082051A68F752EB29AF1B" import="1">Art/GW_Hieronymus-Bosch---The-Garden-of-Earthly-Delights.dds</File>
+    <File md5="C54DC67125E316A2928D56BF5AB44033" import="1">Art/GW_Jackson-Pollock---No-1.dds</File>
+    <File md5="4777D4080C0E878DCB3D1FCA5912D3C8" import="1">Art/GW_James-Ensor---The-Oyster-Eater.dds</File>
+    <File md5="32CC9CE427E7416F3A93E537C975F946" import="1">Art/GW_Jan-Asselijn---The-Threatened-Swan.dds</File>
+    <File md5="5D919EDD300FBC237BA509ACFDBDE761" import="1">Art/GW_Jan-Steen---As-The-Old-Sing-So-Twitter-the-Young.dds</File>
+    <File md5="05D5372EEDEE21A293CB55A4DA836C98" import="1">Art/GW_Jasper-Johns---Zero-Through-Nine.dds</File>
+    <File md5="360D184F1E0BA1837E3F318AAFC4A33D" import="1">Art/GW_Jean-Auguste-Dominique-Ingres---La-Grande-Odalisque.dds</File>
+    <File md5="AA36119915B2E352BC57619AC68A6C4B" import="1">Art/GW_Jean-Louis-Theodore-Gericault---The-Raft-of-the-Medusa.dds</File>
+    <File md5="D3C27AD05250383FA4F37CF8BF74DC9F" import="1">Art/GW_Joan-Miro---Harlequins-Carnival.dds</File>
+    <File md5="8BCDFD8016C98F5EE9C5E8C07C92EA6D" import="1">Art/GW_John-Singer-Sargent---Head-of-a-Capri-Girl.dds</File>
+    <File md5="4FCCCF56A10E22E0F9DFA9650C01C77A" import="1">Art/GW_Kazimir-Malevich---Black-Square.dds</File>
+    <File md5="33080B5C0AB19BDFAD31A8C7FF92302E" import="1">Art/GW_M-C-Escher---Ascending-and-Descending.dds</File>
+    <File md5="1A62F3B9753CBCCCE848DF4A66F0086C" import="1">Art/GW_Marc-Chagall---The-Birthday.dds</File>
+    <File md5="114922EBAF5E54E38AB168305E15CCFE" import="1">Art/GW_Marcel-Duchamp---Nude-Descending-a-Staircase-No-2.dds</File>
+    <File md5="636DF96FFA07B85C442E84FAE04667A1" import="1">Art/GW_Mark-Rothko---Orange-and-Yellow.dds</File>
+    <File md5="4B26BDDEA341D342E6BFF9CBA6A4DBDB" import="1">Art/GW_Masaccio---Baptism-of-the-Neophytes.dds</File>
+    <File md5="0E6C44DA044CE09A4B0D7A7B05948AA6" import="1">Art/GW_Max-Ernst---The-Triumph-of-Surrealism.dds</File>
+    <File md5="F2763AEC5C6ED00C073E7CE82B096667" import="1">Art/GW_Nicolas-Poussin---Spring-The-Earthly-Paradise.dds</File>
+    <File md5="5F4E3ABFD8463C228FAE2E07D6C16216" import="1">Art/GW_Norman-Rockwell---Boy-and-Girl-Gazing-at-the-Moon.dds</File>
+    <File md5="51907BC476DCCD9815746C4F3BD04F71" import="1">Art/GW_Parmigianino---The-Conversion-of-St-Paul.dds</File>
+    <File md5="58C0371A080503301C7047E0D99A1CB0" import="1">Art/GW_Paul-Klee---Ad-Parnassum.dds</File>
+    <File md5="B99066E2172E44E1EA674125062347E8" import="1">Art/GW_Paul-Signac---The-Papal-Palace-Avignon.dds</File>
+    <File md5="6D1C5E71EFDE5206C2A9FAB4F5F17E92" import="1">Art/GW_Piero-di-Cosimo---Liberazione-di-Andromeda.dds</File>
+    <File md5="891C27B7D184594E17E6164AE6E17478" import="1">Art/GW_Pierre-Bonnard---Fishing-Port.dds</File>
+    <File md5="98F58675FCDD0AA2145FEBA97FA1BFA1" import="1">Art/GW_Piet-Mondrian---Broadway-Boogie-Woogie.dds</File>
+    <File md5="C0E993AF4D2D4962BAC4BF984015C528" import="1">Art/GW_Quinten-Matsys---A-Grotesque-Old-Woman.dds</File>
+    <File md5="B363985B13E268F3B2AA14BAA3E18F87" import="1">Art/GW_Rene-Magritte---The-Son-of-Man.dds</File>
+    <File md5="502E405B3994FB2BE90BDB4CEBEFA691" import="1">Art/GW_Richard-Diebenkorn---Ocean-Park-No-27.dds</File>
+    <File md5="7483536E60F50ADC29BDD1C52AAF8401" import="1">Art/GW_Robert-Rauschenberg---Bed.dds</File>
+    <File md5="B4E32A7EE29AC0F68092D97771A54D12" import="1">Art/GW_Robert-Seldon-Duncanson---Still-Life-with-Fruit-and-Nuts.dds</File>
+    <File md5="37D82EC0DE06ACF3221F1D8867F74393" import="1">Art/GW_Rogier-van-der-Weyden---Saint-George-and-the-Dragon.dds</File>
+    <File md5="B09906F224F14862C8098B11A3B0C218" import="1">Art/GW_Rosa-Bonheur---The-Horse-Fair.dds</File>
+    <File md5="A9CD9C2D88F6B5C4DD12EBB0E7A77219" import="1">Art/GW_Rosso-Fiorentino---Playing-Putto-Musician-Angel.dds</File>
+    <File md5="A32949190A1DAE79918559B09749FBD3" import="1">Art/GW_Roy-Lichtenstein---Crying-Girl.dds</File>
+    <File md5="92D5FD4BD4BCDBAFF5280C29C568F09A" import="1">Art/GW_Salvador-Dali---The-Persistence-of-Memory.dds</File>
+    <File md5="FBF675B2D19CAD17385C27D4A8977496" import="1">Art/GW_Sam-Weber---Forester.dds</File>
+    <File md5="A3515446F09A03F4A0C6EA3B64764BFE" import="1">Art/GW_Susshu-Toyo---Haboku-Sansui.dds</File>
+    <File md5="C94954DAA79C49A3433AF7E230C4CF54" import="1">Art/GW_Theophanes---The-Dormition.dds</File>
+    <File md5="88AA0E6AD1028C778EA51187F9BAD787" import="1">Art/GW_Therese-Schwartze---Portret-van-Lizzie-Ansingh.dds</File>
+    <File md5="69509A08531E61B092FB3A14986A074D" import="1">Art/GW_Tom-Thomson---The-Jack-Pine.dds</File>
+    <File md5="9069843624B35EDDD2576EE01789243E" import="1">Art/GW_Umberto-Boccioni---States-of-Mind-I-The-Farewells.dds</File>
+    <File md5="F0BB5DBF455F0734B4B8890F2EB6E58C" import="1">Art/GW_Ustad-Mansur---Two-Cranes.dds</File>
+    <File md5="BF4C25C8D06F902509D24F83B4E4F7FA" import="1">Art/GW_Utagawa-Kuniyoshi---Hatsuhana-Doing-Penance-Under-the-Tonosawa-Waterfall.dds</File>
+    <File md5="B05CD87825EEE6F85C473EC4D227B977" import="1">Art/GW_Wassily-Kandinsky---The-Blue-Rider.dds</File>
+    <File md5="016721311FD883E5CDC00A3327E4DC91" import="1">Art/GW_Willem-de-Kooning---Woman.dds</File>
+    <File md5="DFC009FD89EE34730B2A5E4432325496" import="1">Art/GW_William-Turner---Rain-Steam-and-Speed-The-Great-Western-Railway.dds</File>
+    <File md5="747B5CDABC5D049DAEE0441906060306" import="0">Writer - Great Works/GreatWorks_W29.xml</File>
+    <File md5="18AD07C893CBDBFF9CC16CC6BE4B2018" import="0">Writer - Great Works/GreatWorks_W25.xml</File>
+    <File md5="37365EB15BAA7B90DF313C0725E4580B" import="0">Writer - Great Works/GreatWorks_W26.xml</File>
+    <File md5="7BA8B0EED968E56C132B7362914ACE32" import="0">Writer - Great Works/GreatWorks_W27.xml</File>
+    <File md5="BAB51FFB2761EFAF0631F072EB64F29F" import="0">Writer - Great Works/GreatWorks_W28.xml</File>
+    <File md5="A67F220B8FF001C3BDA1592C3815E6ED" import="0">Writer - Great Works/GreatWorks_W04.xml</File>
+    <File md5="0C29DC2A6A2DF697C64CA0DF9A69E51F" import="0">Writer - Great Works/GreatWorks_W05.xml</File>
+    <File md5="07B0B8C267EFFEC14A5A2030D695030A" import="0">Writer - Great Works/GreatWorks_W06.xml</File>
+    <File md5="C853C48F277C6F7A53A70E9A27F171A4" import="0">Writer - Great Works/GreatWorks_W07.xml</File>
+    <File md5="B5F1AF09C6ED9568260DC541F39D5C68" import="0">Writer - Great Works/GreatWorks_W08.xml</File>
+    <File md5="DBA702A6CC70AA922E67F2A5B903CC92" import="0">Writer - Great Works/GreatWorks_W09.xml</File>
+    <File md5="21EF9C70092E0C47A07EF115B5A6E678" import="0">Writer - Great Works/GreatWorks_W10.xml</File>
+    <File md5="F6E7179D04F4DBC1DA8D39660BFD10AE" import="0">Writer - Great Works/GreatWorks_W11.xml</File>
+    <File md5="9F84105BED70D3EB9BFF6F4926DF4CD5" import="0">Writer - Great Works/GreatWorks_W12.xml</File>
+    <File md5="841DD57B7D424CF873AE50A9AA56B362" import="0">Writer - Great Works/GreatWorks_W13.xml</File>
+    <File md5="BE9BC72E0E8A20D0E310236AE3EA498C" import="0">Writer - Great Works/GreatWorks_W14.xml</File>
+    <File md5="F8CE454A51E8978DDA123A656FC47D84" import="0">Writer - Great Works/GreatWorks_W15.xml</File>
+    <File md5="59D1172DB784B37B7D5FFB047490C452" import="0">Writer - Great Works/GreatWorks_W16.xml</File>
+    <File md5="348229A3D860A7E9B9530D046B39E937" import="0">Writer - Great Works/GreatWorks_W17.xml</File>
+    <File md5="3626E622DFBA457C077B0DC3B10BA2C5" import="0">Writer - Great Works/GreatWorks_W18.xml</File>
+    <File md5="6B4F497035807B84BC5E782825E7418A" import="0">Writer - Great Works/GreatWorks_W19.xml</File>
+    <File md5="BDB5CDD240A455B10F920EA7EDBE4E36" import="0">Writer - Great Works/GreatWorks_W20.xml</File>
+    <File md5="57B28BF56649F9FF3C47BD14F35B0682" import="0">Writer - Great Works/GreatWorks_W22.xml</File>
+    <File md5="83406422D0B5ABFF776107233EAB1AF4" import="0">Writer - Great Works/GreatWorks_W23.xml</File>
+    <File md5="20BBF6EE03BF0D8B7850FA81744E39A2" import="0">Writer - Great Works/GreatWorks_W24.xml</File>
+    <File md5="08927B84479A5D740C38BF73E0C67CEB" import="0">Writer - Great Works/GreatWorks_W03.xml</File>
+    <File md5="7F26ABC02BC39217C31A3F8438D26DAC" import="0">Writer - Great Works/GreatWorks_W02.xml</File>
+    <File md5="1FAEEF0A3DE372EC25110794F5F0B1BE" import="0">Writer - Great Works/GreatWorks_W01.xml</File>
+    <File md5="5A35C2751E2382947A58900564E55E87" import="0">Writer - Text/TextInfo_GreatWorks_W29.xml</File>
+    <File md5="F73B1163D3454CF6E460856342F8D87B" import="0">Writer - Text/TextInfo_Units_W29.xml</File>
+    <File md5="76A89FEB71922F31A3D53900D9314F45" import="0">Writer - Text/TextInfo_GreatWorks_W25.xml</File>
+    <File md5="BAE0C7005669A1468F1D038D1435543C" import="0">Writer - Text/TextInfo_GreatWorks_W26.xml</File>
+    <File md5="18D80D51D30E113453B38EDDB543C916" import="0">Writer - Text/TextInfo_GreatWorks_W27.xml</File>
+    <File md5="B7ECF53B319E395C17DBA7954F99A201" import="0">Writer - Text/TextInfo_GreatWorks_W28.xml</File>
+    <File md5="591A967421C9852F1D81709EC96EFD2C" import="0">Writer - Text/TextInfo_Units_W25.xml</File>
+    <File md5="B3EF57EC1F42EEFBD57DCDD49EABEB04" import="0">Writer - Text/TextInfo_Units_W26.xml</File>
+    <File md5="0027DB781CD65629E2FFF70E319B4816" import="0">Writer - Text/TextInfo_Units_W27.xml</File>
+    <File md5="91FF0FA528CEC4F6AF3B9396F61E9DE6" import="0">Writer - Text/TextInfo_Units_W28.xml</File>
+    <File md5="EA3F60202F2BF653DC212849338B25DB" import="0">Writer - Text/TextInfo_Units_W22_2.xml</File>
+    <File md5="DA36B5676D7A58A35887CE254F859369" import="0">Writer - Text/TextInfo_Units_W22_3.xml</File>
+    <File md5="DC95D3A8ADCE3E0F38D1ECD69116F38E" import="0">Writer - Text/TextInfo_Units_W22_4.xml</File>
+    <File md5="DAFCB8417F90C913E53D2A0EAD47DFAF" import="0">Writer - Text/TextInfo_Units_W22_5.xml</File>
+    <File md5="7574D29A3939F9BACC66F947D1F20151" import="0">Writer - Text/TextInfo_Units_W22_6.xml</File>
+    <File md5="69AE8E90EDF9D6FE9FFEAD30E8C7E0DE" import="0">Writer - Text/TextInfo_Units_W24.xml</File>
+    <File md5="AFA6CBAF53AACC1854F697BB405A1291" import="0">Writer - Text/TextInfo_Units_W20.xml</File>
+    <File md5="15B6434C7057BE2EF4D0473EABF9FB85" import="0">Writer - Text/TextInfo_GreatWorks_W20.xml</File>
+    <File md5="0FC92ED8AB83CB378A7AB6224809E0B6" import="0">Writer - Text/TextInfo_Units_W22_1.xml</File>
+    <File md5="8257C26305B4F4AAA7FB9A4CBC936F67" import="0">Writer - Text/TextInfo_Units_W23.xml</File>
+    <File md5="DFD918D013E6D2BD757CE3309DF8BA8D" import="0">Writer - Text/TextInfo_GreatWorks_W24.xml</File>
+    <File md5="F2D571ED826041AA9ABBA98606901300" import="0">Writer - Text/TextInfo_GreatWorks_W23.xml</File>
+    <File md5="1FDA58F5C09C5A7D8A20F0CEA63778B0" import="0">Writer - Text/TextInfo_GreatWorks_W22.xml</File>
+    <File md5="B048B62433C5006F1B3326C319FB58A4" import="0">Writer - Text/TextInfo_GreatWorks_W19.xml</File>
+    <File md5="933C56FC42F995B19D1A499026ABAB16" import="0">Writer - Text/TextInfo_GreatWorks_W18.xml</File>
+    <File md5="5D689767836D47CEDC96FFC3AAC18BB9" import="0">Writer - Text/TextInfo_Units_W19.xml</File>
+    <File md5="ACCAF39B60E80E3D37C952ADD4EFBFE4" import="0">Writer - Text/TextInfo_Units_W18.xml</File>
+    <File md5="2830D9EB09420242D1E008E272EF6C92" import="0">Writer - Text/TextInfo_Units_W17.xml</File>
+    <File md5="7664BDAEC2A9AE6FB3EF5F1282D66654" import="0">Writer - Text/TextInfo_Units_W16.xml</File>
+    <File md5="8147F10CDC6FB9F22FD9C851FD9E3E54" import="0">Writer - Text/TextInfo_Units_W15.xml</File>
+    <File md5="4878A4AE848506144D1A59DBFCF5BCF2" import="0">Writer - Text/TextInfo_Units_W14.xml</File>
+    <File md5="0CC84C005B45E4BE0722E1E28A4846A3" import="0">Writer - Text/TextInfo_Units_W13.xml</File>
+    <File md5="363E6778983E7088F64F61DC6F61B4AD" import="0">Writer - Text/TextInfo_Units_W12.xml</File>
+    <File md5="54081071E14100785359E8326132293E" import="0">Writer - Text/TextInfo_Units_W11.xml</File>
+    <File md5="1003EFEC879F53CB30B7C4BD776F688F" import="0">Writer - Text/TextInfo_Units_W10.xml</File>
+    <File md5="74CF43F3D8305845EE9D3626123A4E1B" import="0">Writer - Text/TextInfo_GreatWorks_W17.xml</File>
+    <File md5="2F0B86EAEDECAE26AA0B79BD367A9717" import="0">Writer - Text/TextInfo_GreatWorks_W16.xml</File>
+    <File md5="9BD2862B4F8B3337A0E67B67F055BFAC" import="0">Writer - Text/TextInfo_GreatWorks_W15.xml</File>
+    <File md5="2BC889C191519DCC4A70D1278EE9DFF1" import="0">Writer - Text/TextInfo_GreatWorks_W14.xml</File>
+    <File md5="CEFF4BA1E8D5827D63E864CFF38A274E" import="0">Writer - Text/TextInfo_GreatWorks_W13.xml</File>
+    <File md5="8B023C48016565F1D06608C574110CD6" import="0">Writer - Text/TextInfo_GreatWorks_W12.xml</File>
+    <File md5="BE13379BFD9E95288A64601EA3B373C7" import="0">Writer - Text/TextInfo_GreatWorks_W11.xml</File>
+    <File md5="5073F35765C4DBB2883E25CAAC76FF5C" import="0">Writer - Text/TextInfo_GreatWorks_W10.xml</File>
+    <File md5="098376085F70D07ACF441E11B4CA4878" import="0">Writer - Text/TextInfo_GreatWorks_W05.xml</File>
+    <File md5="5104B66AC340A140779B4BA46EAA3EF9" import="0">Writer - Text/TextInfo_GreatWorks_W06.xml</File>
+    <File md5="A8AE6894DBC3A426FF0CD2F26A070746" import="0">Writer - Text/TextInfo_GreatWorks_W07.xml</File>
+    <File md5="2EC2C382E334743FC66E0F3B9891FB64" import="0">Writer - Text/TextInfo_GreatWorks_W08.xml</File>
+    <File md5="6A347537CCE8BBCF5B7ECDBAB4373FF5" import="0">Writer - Text/TextInfo_GreatWorks_W09.xml</File>
+    <File md5="3B486F6D22BAF9CD7445AC9B71C51408" import="0">Writer - Text/TextInfo_Units_W05.xml</File>
+    <File md5="A87A313AEF787457A3B5D4752D419971" import="0">Writer - Text/TextInfo_Units_W06.xml</File>
+    <File md5="D4208F058BBD2172A15BDC832D5D5919" import="0">Writer - Text/TextInfo_Units_W07.xml</File>
+    <File md5="43A4FD51D73BE5BEA9AD42B2F83D6209" import="0">Writer - Text/TextInfo_Units_W08.xml</File>
+    <File md5="0DF97B70202995847E8C3EF300793EA4" import="0">Writer - Text/TextInfo_Units_W09.xml</File>
+    <File md5="49B36262E2EBDF4189C24F371B06594A" import="0">Writer - Text/TextInfo_Units_W04.xml</File>
+    <File md5="6E81B74DAD5E0868CCF61A808FFEDD3D" import="0">Writer - Text/TextInfo_GreatWorks_W04.xml</File>
+    <File md5="C3F0C1491A4F04EB9121D126DF84CB2E" import="0">Writer - Text/TextInfo_Units_W03.xml</File>
+    <File md5="09D3FAE971E6C10CE616E144410C1AEE" import="0">Writer - Text/TextInfo_GreatWorks_W03.xml</File>
+    <File md5="8D148B31C60F65110FCA3435512E8A3B" import="0">Writer - Text/TextInfo_Units_W02.xml</File>
+    <File md5="41B34A4615B02979A93E2C254E648EB8" import="0">Writer - Text/TextInfo_GreatWorks_W02.xml</File>
+    <File md5="967A4F718F1ECE2C8AB723FC011B4DCF" import="0">Writer - Text/TextInfo_GreatWorks_W01.xml</File>
+    <File md5="D86AABD8DBCCAA7081712961872A957B" import="0">Writer - Text/TextInfo_Units_W01.xml</File>
+    <File md5="6D80C7B8036B9AC039D31E9B0EB9DEC2" import="0">Writer - Units/Units_W29.xml</File>
+    <File md5="3D05EA15F588C0803DD0453F4E7127F5" import="0">Writer - Units/Units_W25.xml</File>
+    <File md5="59E0E619ED58AB01BA9DAF3E9FD3A39E" import="0">Writer - Units/Units_W26.xml</File>
+    <File md5="4052D3E0FEFCA2F095B9EE5325C68856" import="0">Writer - Units/Units_W27.xml</File>
+    <File md5="CAF5A577CD88481DE2A2B535A448E09A" import="0">Writer - Units/Units_W28.xml</File>
+    <File md5="DD7FDBC3D7F6B57048356C2954BE1CC5" import="0">Writer - Units/Units_W04.xml</File>
+    <File md5="CB86D95D349F8BF8545903EB73CEF38B" import="0">Writer - Units/Units_W05.xml</File>
+    <File md5="053815D23747DA845C6F22199780CC88" import="0">Writer - Units/Units_W06.xml</File>
+    <File md5="381A9352E1924ED3C66B4FA61B42A6DF" import="0">Writer - Units/Units_W07.xml</File>
+    <File md5="9E00F4C743F1E53643FF3BC022445187" import="0">Writer - Units/Units_W08.xml</File>
+    <File md5="4796F91B88835B5C493C6729C0FBE2F4" import="0">Writer - Units/Units_W09.xml</File>
+    <File md5="B01E5A66B9B014BFDEAA7CE9F749F6F7" import="0">Writer - Units/Units_W10.xml</File>
+    <File md5="FCFA7FEB7871F955CE0527107D3A44D8" import="0">Writer - Units/Units_W11.xml</File>
+    <File md5="1731224B967CB1ADA89E8FA44DF666FD" import="0">Writer - Units/Units_W12.xml</File>
+    <File md5="DAFB32271F68F42BEEA26ED26701CCBB" import="0">Writer - Units/Units_W13.xml</File>
+    <File md5="A2DE093320F8FE2615BAFBC6ECAF932F" import="0">Writer - Units/Units_W14.xml</File>
+    <File md5="A1C04EDD069DB0A1BB2CDC0BD5D562C5" import="0">Writer - Units/Units_W15.xml</File>
+    <File md5="CAD31A12912E9A887B0FA37F43B2881F" import="0">Writer - Units/Units_W16.xml</File>
+    <File md5="FE4AE973DB66CB61C06E951F78F66E03" import="0">Writer - Units/Units_W17.xml</File>
+    <File md5="F1CBC83FE411A640DB31668C3363C409" import="0">Writer - Units/Units_W18.xml</File>
+    <File md5="570A5BDFDDD1E3B935469351270673EE" import="0">Writer - Units/Units_W19.xml</File>
+    <File md5="BEC95F1E499179176BD0FEAE32B7F4AD" import="0">Writer - Units/Units_W20.xml</File>
+    <File md5="335EF57EC091073CBF91E6841E329927" import="0">Writer - Units/Units_W22.xml</File>
+    <File md5="0EB97F4FDA44F17CD4B8BDA322B64169" import="0">Writer - Units/Units_W23.xml</File>
+    <File md5="6057757518333C0B2171DC7BC10C3CE7" import="0">Writer - Units/Units_W24.xml</File>
+    <File md5="A8B5DE5C930E08AF9CED25350B9470D5" import="0">Writer - Units/Units_W03.xml</File>
+    <File md5="5B43D987F6E43C38891292249157BBC8" import="0">Writer - Units/Units_W02.xml</File>
+    <File md5="9A47667C2ED312E599D1F9193005D03A" import="0">Writer - Units/Units_W01.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art - Units/Units_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A01.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A02.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A02.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A02.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A02.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A03.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A03.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A03.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A03.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A04.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A04.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A04.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A04.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A05.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A05.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A05.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A05.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A06.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A06.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A06.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A06.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A07.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A07.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A07.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A07.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A08.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A08.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A08.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A08.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A09.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A09.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A09.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A09.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W01.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W02.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W02.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W02.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W02.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W03.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W03.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W03.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W03.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W04.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W04.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W04.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W04.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W05.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W05.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W05.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W05.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W06.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W06.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W06.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W06.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W07.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W07.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W07.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W07.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W08.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W08.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W08.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W08.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W09.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W09.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W09.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W09.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W10.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W10.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W10.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W10.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W11.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W11.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W11.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W11.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W12.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W12.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W12.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W12.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W13.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W13.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W13.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W13.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W14.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W14.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W14.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W14.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W15.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W15.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W15.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W15.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W16.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W16.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W16.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W16.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W17.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W17.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W17.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W17.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W18.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W18.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W18.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W18.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W19.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W19.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W19.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W19.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W20.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W20.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W20.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W20.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W22.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W22.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_1.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_2.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_3.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_4.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_5.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W22_6.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W22.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W23.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W23.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W23.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W23.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W24.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W24.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W24.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W24.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W25.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W25.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W25.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W25.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W26.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W26.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W26.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W26.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W27.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W27.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W27.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W27.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W28.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W28.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W28.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W28.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Units/Units_W29.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Great Works/GreatWorks_W29.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_Units_W29.xml</UpdateDatabase>
+      <UpdateDatabase>Writer - Text/TextInfo_GreatWorks_W29.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A10.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A10.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A10.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A10.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Units/Units_A11.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Great Works/GreatWorks_A11.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_Units_A11.xml</UpdateDatabase>
+      <UpdateDatabase>Art - Text/TextInfo_GreatWorks_A11.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

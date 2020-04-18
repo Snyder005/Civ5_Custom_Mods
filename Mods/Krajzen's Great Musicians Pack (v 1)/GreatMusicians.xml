@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/29/2013 7:10:30 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ABRAHAM_ZEVI_IDELSOHN</SoundID>
+			<FileName>Abraham Zewi Idelsohn - Hava Nagila</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ADELE</SoundID>
+			<FileName>Adele - Skyfall</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_AMEL_BRAHIM</SoundID>
+			<FileName>Amel Brahim - Bachiana no 5 -</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ANTONIO_CARLOS_JOBIM</SoundID>
+			<FileName>Antonio Carlos Jobim - Girl From Ipanema</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_APACHE</SoundID>
+			<FileName>Apache - Tatanka</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ARAM_KHACHATURIAN</SoundID>
+			<FileName>Aram Khachaturian - Sabre Dance</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ARCHILOCOS</SoundID>
+			<FileName>Archilocos - Ekleipsis</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ASTOR_PIAZZOLLA</SoundID>
+			<FileName>Astor Piazzolla - Libertango</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_AT_MAHMUD</SoundID>
+			<FileName>AT Mahmud - Burung Layang-Layang</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_AZIZA_MUSTAFA_ZADEH</SoundID>
+			<FileName>Aziza Mustafa Zadeh - Bana Bana Gel</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_BOB_DYLAN</SoundID>
+			<FileName>Bob Dylan - All Along The Watchtower</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_BOB_MARLEY</SoundID>
+			<FileName>Bob Marley - Redemption</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_CESARIA_EVORA</SoundID>
+			<FileName>Cesaria Evora - Besame Mucho</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_CHEN_YI</SoundID>
+			<FileName>Chen Yi - Arirang</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_CHRISTOPHER_TIN</SoundID>
+			<FileName>Christopher Tin - Baba Yetu</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_COOLIO</SoundID>
+			<FileName>Coolio - Gangsters Paradise</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_CARTOLA</SoundID>
+			<FileName>Corra e Olhe o Ceu - Cartola</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_DEDE_EFENDI</SoundID>
+			<FileName>Dede Efendi - Ey eda olmusum muptela</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ERHU</SoundID>
+			<FileName>Erhu - Ballad of North Henan Province</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_FAIROUZ</SoundID>
+			<FileName>Fairouz - Bektob Esmak Ya Habibi</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_FELA_KUTI</SoundID>
+			<FileName>Fela Kuti - Beasts of No Nation</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_FRANK_SINATRA</SoundID>
+			<FileName>Frank Sinatra - Strangers in The Night</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_GREGORY_ISAACS</SoundID>
+			<FileName>Gregory Isaacs - Night Nurse</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_GUNS_N_ROSES</SoundID>
+			<FileName>GunsNRoses - Dont Cry</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_HANS_ZIMMER</SoundID>
+			<FileName>Hans Zimmer - Black Hawk Down</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_HENRYK_WIENIAWSKI</SoundID>
+			<FileName>Henryk Wieniawski- Kujawiak</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_HILDEGARD_VON_BINGEN</SoundID>
+			<FileName>Hildegard von Bingen - O frondens virga, Antiphona</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_IBRAHIM_FERRER</SoundID>
+			<FileName>Ibrahim Ferrer - Marieta</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_IRON_MAIDEN</SoundID>
+			<FileName>Iron Maiden - Fear of the Dark</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ISIHIJA</SoundID>
+			<FileName>Isihija - Kosti</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ISRAEL_KAMAKAWIWOOLE</SoundID>
+			<FileName>Israel Kamakawiwoole - Somewhere over the Rainbow</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ITZHAK_PERLMAN</SoundID>
+			<FileName>Itzhak Perlman - Schindler's List</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_JOANNE_SHENANDOAH</SoundID>
+			<FileName>Joanne Shenandoah - Kahalu'nyuhe</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_JOSE_MAURICIO_NUNES_GARCIA</SoundID>
+			<FileName>Jose Mauricio Nunes Garcia - Abertura em Re</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_KAOMA</SoundID>
+			<FileName>Kaoma - Lambada</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_LED_ZEPPELIN</SoundID>
+			<FileName>Kashmir - Led Zeppelin</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_LOUIS_ARMSTRONG2</SoundID>
+			<FileName>Louis Armstrong - What a wonderful world</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_MARILYN_MONROE</SoundID>
+			<FileName>Marilyn Monroe - I Wanna Be Loved By You</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_METALLICA</SoundID>
+			<FileName>Metallica - Nothing Else Matters</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_MICHAEL_JACKSON</SoundID>
+			<FileName>Michael Jackson - Earth Song</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_MOHICANS</SoundID>
+			<FileName>Mohicans - Yeha Noha</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_PHOON_YEW_TIEN</SoundID>
+			<FileName>Mr Phoon Yew Tien - Malay Folksong Medley</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_MULATU_ASTATKE</SoundID>
+			<FileName>Mulatu Astatke - Tezeta</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_NAT_YONTARARAK</SoundID>
+			<FileName>Nat Yontararak - Glory to Our Great Kings</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_NICO_VEGA</SoundID>
+			<FileName>Nico Vega - The Beast</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_PSY</SoundID>
+			<FileName>PSY - Gangnam Style</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_QUEEN</SoundID>
+			<FileName>Queen - We Will Rock You</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_RAVI_SHANKAR_RAGA</SoundID>
+			<FileName>Ravi Shankar Raga - Parameshwari</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_ROMICA_PUCEANU</SoundID>
+			<FileName>Romica Puceanu - Saraiman</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_SA_DING_DING</SoundID>
+			<FileName>Sa Ding Ding - Zi You Xing Zou De Hua</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_SAINT_KASSIA</SoundID>
+			<FileName>Saint Kassia - Apostate Tyranno</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_SCOTT_JOPLIN</SoundID>
+			<FileName>Scott Joplin - The Entertainer</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_STEWIE_WONDER</SoundID>
+			<FileName>Stevie Wonder - I Just Called To Say I Love You</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_THE_BEATLES</SoundID>
+			<FileName>The Beatles - Love me Do</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_THE_ROLLING_STONES</SoundID>
+			<FileName>The Rolling Stones - Doom And Gloom</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_XIAN_XINGHAI</SoundID>
+			<FileName>Xian Xinghai - Yellow River Cantata</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_YIRUMA</SoundID>
+			<FileName>Yiruma - River Flows In You</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_YLVIS</SoundID>
+			<FileName>Ylvis - The Fox</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_YOKO_KANNO</SoundID>
+			<FileName>Yoko Kanno - Because</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_GREAT_MUSICIAN_YO-YO_MA</SoundID>
+			<FileName>Yo-Yo Ma - Massenet Meditation</FileName>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ABRAHAM_ZEVI_IDELSOHN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ABRAHAM_ZEVI_IDELSOHN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ADELE</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ADELE</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_AMEL_BRAHIM</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_AMEL_BRAHIM</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ANTONIO_CARLOS_JOBIM</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ANTONIO_CARLOS_JOBIM</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_APACHE</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_APACHE</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ARAM_KHACHATURIAN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ARAM_KHACHATURIAN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ARCHILOCOS</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ARCHILOCOS</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ASTOR_PIAZZOLLA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ASTOR_PIAZZOLLA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_AT_MAHMUD</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_AT_MAHMUD</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_AZIZA_MUSTAFA_ZADEH</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_AZIZA_MUSTAFA_ZADEH</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_BOB_DYLAN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_BOB_DYLAN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_BOB_MARLEY</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_BOB_MARLEY</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_CESARIA_EVORA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_CESARIA_EVORA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_CHEN_YI</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_CHEN_YI</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_CHIRA_KHOOR</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_CHIRA_KHOOR</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_CHRISTOPHER_TIN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_CHRISTOPHER_TIN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_COOLIO</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_COOLIO</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_CARTOLA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_CARTOLA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_DEDE_EFENDI</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_DEDE_EFENDI</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ERHU</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ERHU</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_FAIROUZ</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_FAIROUZ</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_FELA_KUTI</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_FELA_KUTI</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_FRANK_SINATRA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_FRANK_SINATRA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_GREGORY_ISAACS</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_GREGORY_ISAACS</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_GUNS_N_ROSES</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_GUNS_N_ROSES</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_HANS_ZIMMER</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_HANS_ZIMMER</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_HENRYK_WIENIAWSKI</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_HENRYK_WIENIAWSKI</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_HILDEGARD_VON_BINGEN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_HILDEGARD_VON_BINGEN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_IBRAHIM_FERRER</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_IBRAHIM_FERRER</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_IRON_MAIDEN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_IRON_MAIDEN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ISIHIJA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ISIHIJA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ISRAEL_KAMAKAWIWOOLE</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ISRAEL_KAMAKAWIWOOLE</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ITZHAK_PERLMAN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ITZHAK_PERLMAN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_JOANNE_SHENANDOAH</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_JOANNE_SHENANDOAH</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_JOSE_MAURICIO_NUNES_GARCIA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_JOSE_MAURICIO_NUNES_GARCIA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_KAOMA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_KAOMA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_LED_ZEPPELIN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_LED_ZEPPELIN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_LOUIS_ARMSTRONG2</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_LOUIS_ARMSTRONG2</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_MARILYN_MONROE</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_MARILYN_MONROE</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_METALLICA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_METALLICA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_MICHAEL_JACKSON</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_MICHAEL_JACKSON</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_MOHICANS</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_MOHICANS</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_PHOON_YEW_TIEN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_PHOON_YEW_TIEN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_MULATU_ASTATKE</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_MULATU_ASTATKE</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_NAT_YONTARARAK</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_NAT_YONTARARAK</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_NICO_VEGA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_NICO_VEGA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_PSY</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_PSY</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_QUEEN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_QUEEN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_RAVI_SHANKAR_RAGA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_RAVI_SHANKAR_RAGA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_ROMICA_PUCEANU</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_ROMICA_PUCEANU</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_SA_DING_DING</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_SA_DING_DING</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_SAINT_KASSIA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_SAINT_KASSIA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_SCOTT_JOPLIN</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_SCOTT_JOPLIN</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_STEVIE_WONDER</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_STEVIE_WONDER</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_THE_BEATLES</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_THE_BEATLES</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_THE_ROLLING_STONES</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_THE_ROLLING_STONES</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_XIAN_XINGHAI</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_XIAN_XINGHAI</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_YIRUMA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_YIRUMA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_YLVIS</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_YLVIS</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_YOKO_KANNO</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_YOKO_KANNO</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_GREAT_MUSICIAN_YO-YO_MA</ScriptID>
+			<SoundID>SND_GREAT_MUSICIAN_YO-YO_MA</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+	</Audio_2DSounds>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ABRAHAM_ZEVI_IDELSOHN</UniqueName>
+			<GreatWorkType>GREAT_WORK_HAVA_NAGILA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ADELE</UniqueName>
+			<GreatWorkType>GREAT_WORK_SKYFALL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_AMEL_BRAHIM</UniqueName>
+			<GreatWorkType>GREAT_WORK_BACHIANA_NO_5</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ANTONIO_CARLOS_JOBIM</UniqueName>
+			<GreatWorkType>GREAT_WORK_GIRL_FROM_IPANEMA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_APACHE</UniqueName>
+			<GreatWorkType>GREAT_WORK_TATANKA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ARAM_KHACHATURIAN</UniqueName>
+			<GreatWorkType>GREAT_WORK_SABRE_DANCE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ARCHILOCOS</UniqueName>
+			<GreatWorkType>GREAT_WORK_EKLEIPSIS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ASTOR_PIAZZOLLA</UniqueName>
+			<GreatWorkType>GREAT_WORK_LIBERTANGO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_AT_MAHMUD</UniqueName>
+			<GreatWorkType>GREAT_WORK_BURUNG_LAYANG_LAYANG</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_AZIZA_MUSTAFA_ZADEH</UniqueName>
+			<GreatWorkType>GREAT_WORK_BANA_BANA_GEL</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_BOB_DYLAN</UniqueName>
+			<GreatWorkType>GREAT_WORK_ALL_ALONG_THE_WATCHTOWER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_BOB_MARLEY</UniqueName>
+			<GreatWorkType>GREAT_WORK_REDEMPTION</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CESARIA_EVORA</UniqueName>
+			<GreatWorkType>GREAT_WORK_BESAME_MUCHO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHEN_YI</UniqueName>
+			<GreatWorkType>GREAT_WORK_ARIRANG</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CHRISTOPHER_TIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_BABA_YETU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_COOLIO</UniqueName>
+			<GreatWorkType>GREAT_WORK_GANGSTERS_PARADISE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CARTOLA</UniqueName>
+			<GreatWorkType>GREAT_WORK_CORRA_E_OLHE_O_CEU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DEDE_EFENDI</UniqueName>
+			<GreatWorkType>GREAT_WORK_EY_EDA_OLMUSUM_MUPTELA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ERHU</UniqueName>
+			<GreatWorkType>GREAT_WORK_BALLAD_OF_NORTH_HENAN_PROVINCE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FAIROUZ</UniqueName>
+			<GreatWorkType>GREAT_WORK_BEKTOB_ESMAK_YA_HABIBI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FELA_KUTI</UniqueName>
+			<GreatWorkType>GREAT_WORK_BEASTS_OF_NO_NATION</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_FRANK_SINATRA</UniqueName>
+			<GreatWorkType>GREAT_WORK_STRANGERS_IN_THE_NIGHT</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GREGORY_ISAACS</UniqueName>
+			<GreatWorkType>GREAT_WORK_NIGHT_NURSE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_GUNS_N_ROSES</UniqueName>
+			<GreatWorkType>GREAT_WORK_DONT_CRY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HANS_ZIMMER</UniqueName>
+			<GreatWorkType>GREAT_WORK_BLACK_HAWK_DOWN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HENRYK_WIENIAWSKI</UniqueName>
+			<GreatWorkType>GREAT_WORK_KUJAWIAK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HILDEGARD_VON_BINGEN</UniqueName>
+			<GreatWorkType>GREAT_WORK_O_FRODENS_VIRGA_ANTIPHONA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_IBRAHIM_FERRER</UniqueName>
+			<GreatWorkType>GREAT_WORK_MARIETA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_IRON_MAIDEN</UniqueName>
+			<GreatWorkType>GREAT_WORK_FEAR_OF_THE_DARK</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ISIHIJA</UniqueName>
+			<GreatWorkType>GREAT_WORK_KOSTI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ISRAEL_KAMAKAWIWOOLE</UniqueName>
+			<GreatWorkType>GREAT_WORK_SOMEWHERE_OVER_THE_RAINBOW</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ITZHAK_PERLMAN</UniqueName>
+			<GreatWorkType>GREAT_WORK_SCHINDLER'S_LIST</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JOANNE_SHENANDOAH</UniqueName>
+			<GreatWorkType>GREAT_WORK_KAHALU'NYUHE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_JOSE_MAURICIO_NUNES_GARCIA</UniqueName>
+			<GreatWorkType>GREAT_WORK_ABERTURA_EM_RE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_KAOMA</UniqueName>
+			<GreatWorkType>GREAT_WORK_LAMBADA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LED_ZEPPELIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_KASHMIR</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_LOUIS_ARMSTRONG2</UniqueName>
+			<GreatWorkType>GREAT_WORK_WHAT_A_WONDERFUL_WORLD2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MARILYN_MONROE</UniqueName>
+			<GreatWorkType>GREAT_WORK_I_WANNA_BE_LOVED_BY_YOU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_METALLICA</UniqueName>
+			<GreatWorkType>GREAT_WORK_NOTHING_ELSE_MATTERS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MICHAEL_JACKSON</UniqueName>
+			<GreatWorkType>GREAT_WORK_EARTH_SONG</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MOHICANS</UniqueName>
+			<GreatWorkType>GREAT_WORK_YEHA_NOHA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_PHOON_YEW_TIEN</UniqueName>
+			<GreatWorkType>GREAT_WORK_MALAY_FOLKSONG_MEDLEY</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_MULATU_ASTATKE</UniqueName>
+			<GreatWorkType>GREAT_WORK_TEZETA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_NAT_YONTARARAK</UniqueName>
+			<GreatWorkType>GREAT_WORK_GLORY_TO_OUR_GREAT_KINGS</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_NICO_VEGA</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_BEAST</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_PSY</UniqueName>
+			<GreatWorkType>GREAT_WORK_GANGNAM_STYLE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_QUEEN</UniqueName>
+			<GreatWorkType>GREAT_WORK_WE_WILL_ROCK_YOU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_RAVI_SHANKAR_RAGA</UniqueName>
+			<GreatWorkType>GREAT_WORK_PARAMESHWARI</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_ROMICA_PUCEANU</UniqueName>
+			<GreatWorkType>GREAT_WORK_SARAIMAN</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SA_DING_DING</UniqueName>
+			<GreatWorkType>GREAT_WORK_ZI_YOU_XING_ZOU_DE_HUA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SAINT_KASSIA</UniqueName>
+			<GreatWorkType>GREAT_WORK_APOSTATE_TYRANNO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_SCOTT_JOPLIN</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_ENTERTAINER</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_STEVIE_WONDER</UniqueName>
+			<GreatWorkType>GREAT_WORK_I_JUST_CALLED_TO_SAY_I_LOVE_YOU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_THE_BEATLES</UniqueName>
+			<GreatWorkType>GREAT_WORK_LOVE_ME_DO</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_THE_ROLLING_STONES</UniqueName>
+			<GreatWorkType>GREAT_WORK_DOOM_AND_GLOOM</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_XIAN_XINGHAI</UniqueName>
+			<GreatWorkType>GREAT_WORK_YELLOW_RIVER_CANTATA</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_YIRUMA</UniqueName>
+			<GreatWorkType>GREAT_WORK_RIVER_FLOWS_IN_YOU</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_YLVIS</UniqueName>
+			<GreatWorkType>GREAT_WORK_THE_FOX</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_YOKO_KANNO</UniqueName>
+			<GreatWorkType>GREAT_WORK_BECAUSE</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_YO-YO_MA</UniqueName>
+			<GreatWorkType>GREAT_WORK_MASSENET_MEDITATION</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_HAVA_NAGILA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Hava Nagila</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ABRAHAM_ZEVI_IDELSOHN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SKYFALL</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Skyfall</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ADELE</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BACHIANA_NO_5</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Bachiana no 5</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_AMEL_BRAHIM</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GIRL_FROM_IPANEMA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Girl from Ipanema</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ANTONIO_CARLOS_JOBIM</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TATANKA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Tatanka</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_APACHE</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SABRE_DANCE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Sabre Dance</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ARAM_KHACHATURIAN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EKLEIPSIS</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Ekleipsis</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ARCHILOCOS</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LIBERTANGO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Libertango</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ASTOR_PIAZZOLLA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BURUNG_LAYANG_LAYANG</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Burung Layang - Layang</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_AT_MAHMUD</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BANA_BANA_GEL</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Bana Bana Gel</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_AZIZA_MUSTAFA_ZADEH</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_REDEMPTION</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Redemption</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_BOB_DYLAN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ALL_ALONG_THE_WATCHTOWER</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>All Along the Watchtower</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_BOB_DYLAN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BESAME_MUCHO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Besame Mucho</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_CESARIA_EVORA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ARIRANG</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Arirang</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_CHEN_YI</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BABA_YETU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Baba Yetu</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_CHRISTOPHER_TIN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GANGSTERS_PARADISE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Gangster's Paradise</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_COOLIO</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CORRA_E_OLHE_O_CEU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Corra e Olhe o Ceu</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_CARTOLA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EY_EDA_OLMUSUM_MUPTELA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Ey eda olmusum muptela</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_DEDE_EFENDI</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BALLAD_OF_NORTH_HENAN_PROVINCE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Ballad of North Henan Province</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ERHU</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BEKTOB_ESMAK_YA_HABIBI</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Bektob Esmak Ya Habibi</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_FAIROUZ</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BEASTS_OF_NO_NATION</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Beasts of No Nation</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_FELA_KUTI</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_STRANGERS_IN_THE_NIGHT</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Strangers in the Night</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_FRANK_SINATRA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NIGHT_NURSE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Night Nurse</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_GREGORY_ISAACS</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DONT_CRY</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Don't Cry</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_GUNS_N_ROSES</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BLACK_HAWK_DOWN</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Black Hawk Down</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_HANS_ZIMMER</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KUJAWIAK</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Kujawiak</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_HENRYK_WIENIAWSKI</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_O_FRODENS_VIRGA_ANTIPHONA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>O frodens virga, Anthiphona</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_HILDEGARD_VON_BINGEN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MARIETA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Marieta</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_IBRAHIM_FERRER</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FEAR_OF_THE_DARK</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Fear of the Dark</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_IRON_MAIDEN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KOSTI</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Kosti</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ISIHIJA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SOMEWHERE_OVER_THE_RAINBOW</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Somewhere over the Rainbow</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ISRAEL_KAMAKAWIWOOLE</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SCHINDLER'S_LIST</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Schindler's List</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ITZHAK_PERLMAN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KAHALU'NYUHE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Kahalu'nyuhe</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_JOANNE_SHENANDOAH</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ABERTURA_EM_RE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Abertura em Re</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_JOSE_MAURICIO_NUNES_GARCIA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LAMBADA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Lambada</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_KAOMA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KASHMIR</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Kashmir</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_LED_ZEPPELIN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WHAT_A_WONDERFUL_WORLD2</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>What a Wonderful World</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_LOUIS_ARMSTRONG2</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_I_WANNA_BE_LOVED_BY_YOU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>I Wanna Be Loved by You</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_MARILYN_MONROE</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_NOTHING_ELSE_MATTERS</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Nothing Else Matters</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_METALLICA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_EARTH_SONG</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Earth Song</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_MICHAEL_JACKSON</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_YEHA_NOHA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Yeha Noha</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_MOHICANS</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MALAY_FOLKSONG_MEDLEY</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Malay Folksong Medley</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_PHOON_YEW_TIEN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TEZETA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Tezeta</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_MULATU_ASTATKE</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GLORY_TO_OUR_GREAT_KINGS</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Glory to Our Great Kings</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_NAT_YONTARARAK</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BEAST</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>The Beast</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_NICO_VEGA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_GANGNAM_STYLE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Gangnam Style</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_PSY</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WE_WILL_ROCK_YOU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>We Will Rock You</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_QUEEN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PARAMESHWARI</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Parameshwari</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_RAVI_SHANKAR_RAGA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_SARAIMAN</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Saraiman</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_ROMICA_PUCEANU</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ZI_YOU_XING_ZOU_DE_HUA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Zi You Xing Zou De Hua</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_SA_DING_DING</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_APOSTATE_TYRANNO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Apostate Tyranno</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_SAINT_KASSIA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_ENTERTAINER</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>The Entertainer</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_SCOTT_JOPLIN</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_I_JUST_CALLED_TO_SAY_I_LOVE_YOU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>I Just Called to Say I Love You</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_STEVIE_WONDER</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LOVE_ME_DO</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Love Me Do</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_THE_BEATLES</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DOOM_AND_GLOOM</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Doom and Gloom</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_THE_ROLLING_STONES</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_YELLOW_RIVER_CANTATA</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Yellow River Cantata</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_XIAN_XINGHAI</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_RIVER_FLOWS_IN_YOU</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>River Flows in You</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_YIRUMA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_FOX</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>The Fox</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_YLVIS</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_BECAUSE</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Because</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_YOKO_KANNO</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MASSENET_MEDITATION</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>Massenet Meditation</Description>
+			<Audio>AS2D_GREAT_MUSICIAN_YO-YO_MA</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ABRAHAM_ZEVI_IDELSOHN</Tag>
+			<Text>Abraham Zevi Idelsohn</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_HAVA_NAGILA</Tag>
+			<Text>Hava Nagila</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ADELE</Tag>
+			<Text>Adele</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SKYFALL</Tag>
+			<Text>Skyfall</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_AMEL_BRAHIM</Tag>
+			<Text>Amel Brahim</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BACHIANA_NO_5</Tag>
+			<Text>Bachiana no 5</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ANTONIO_CARLOS_JOBIM</Tag>
+			<Text>Antonio Carlos Jobim </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_GIRL_FROM_IPANEMA</Tag>
+			<Text>Girl From Ipanema</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_APACHE</Tag>
+			<Text>Apache</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_TATANKA</Tag>
+			<Text>Tatanka</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ARAM_KHACHATURIAN</Tag>
+			<Text>Aram Khachaturian</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SABRE_DANCE</Tag>
+			<Text>Sabre Dance</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ARCHILOCOS</Tag>
+			<Text>Archilocos</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_EKLEIPSIS</Tag>
+			<Text>Ekleipsis</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ASTOR_PIAZZOLLA</Tag>
+			<Text>Astor Piazzolla </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_LIBERTANGO</Tag>
+			<Text>Libertango</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_AT_MAHMUD</Tag>
+			<Text>AT Mahmud</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BURUNG_LAYANG_LAYANG</Tag>
+			<Text>Burung Layang-Layang</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_AZIZA_MUSTAFA_ZADEH</Tag>
+			<Text>Aziza Mustafa Zadeh</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BANA_BANA_GEL</Tag>
+			<Text>Bana Bana Gel</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_BOB_DYLAN</Tag>
+			<Text>Bob Dylan</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_ALL_ALONG_THE_WATCHTOWER</Tag>
+			<Text>All Along The Watchtower</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_BOB_MARLEY</Tag>
+			<Text>Bob Marley</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_REDEMPTION</Tag>
+			<Text>Redemption</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SONG_FOR_THE_MORNING_STAR</Tag>
+			<Text>Song For The Morning Star</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_CESARIA_EVORA</Tag>
+			<Text>Cesaria Evora</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BESAME_MUCHO</Tag>
+			<Text>Besame Mucho</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_CHEN_YI</Tag>
+			<Text>Chen Yi</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_ARIRANG</Tag>
+			<Text>Arirang</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_CHRISTOPHER_TIN</Tag>
+			<Text>Christopher Tin</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BABA_YETU</Tag>
+			<Text>Baba Yetu</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_COOLIO</Tag>
+			<Text>Coolio</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_GANGSTERS_PARADISE</Tag>
+			<Text>Gangster's Paradise</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_CARTOLA</Tag>
+			<Text>Cartola</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_CORRA_E_OLHE_O_CEU</Tag>
+			<Text>Corra e Olhe o Céu</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_DEDE_EFENDI</Tag>
+			<Text>Dede Efendi</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_EDA_OLMUSUM_MUPTELA</Tag>
+			<Text>Edâ Olmuşum Müptelâ</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ERHU</Tag>
+			<Text>Erhu</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BALLAD_OF_NORTH_HENAN_PROVINCE</Tag>
+			<Text>Ballad of North Henan Province</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_FAIROUZ</Tag>
+			<Text>Fairouz</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BEKTOB_ESMAK_YA_HABIBI</Tag>
+			<Text>Bektob Esmak Ya Habibi</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_FELA_KUTI</Tag>
+			<Text>Fela Kuti</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BEASTS_OF_NO_NATION</Tag>
+			<Text>Beasts of No Nation</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_FRANK_SINATRA</Tag>
+			<Text>Frank Sinatra</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_STRANGERS_IN_THE_NIGHT</Tag>
+			<Text>Strangers in The Night</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_GREGORY_ISAACS</Tag>
+			<Text>Gregory Isaacs</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_NIGHT_NURSE</Tag>
+			<Text>Night Nurse</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_GUNS_N_ROSES</Tag>
+			<Text>Guns N' Roses</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_DONT_CRY</Tag>
+			<Text>Don't Cry</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_HANS_ZIMMER</Tag>
+			<Text>Hans Zimmer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BLACK_HAWK_DOWN</Tag>
+			<Text>Black Hawk Down</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_HENRYK_WIENIAWSKI</Tag>
+			<Text>Henryk Wieniawski</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_KUJAWIAK</Tag>
+			<Text>Kujawiak</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_HILDEGARD_VON_BINGEN</Tag>
+			<Text>Hildegard von Bingen</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_O_FRODENS_VIRGA_ANTIPHONA</Tag>
+			<Text>O frondens virga, Antiphona</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_IBRAHIM_FERRER</Tag>
+			<Text>Ibrahim Ferrer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_MARIETA</Tag>
+			<Text>Marieta</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_IRON_MAIDEN</Tag>
+			<Text>Iron Maiden</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_FEAR_OF_THE_DARK</Tag>
+			<Text>Fear of the Dark</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ISIHIJA</Tag>
+			<Text>Isihija</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_KOSTI</Tag>
+			<Text> Kosti</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ISRAEL_KAMAKAWIWOOLE</Tag>
+			<Text>Israel Kamakawiwoʻole</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SOMEWHERE_OVER_THE_RAINBOW</Tag>
+			<Text>Somewhere over the Rainbow</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ITZHAK_PERLMAN</Tag>
+			<Text>Itzhak Perlman</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SCHINDLER'S_LIST</Tag>
+			<Text>Schindler's List</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_JOANNE_SHENANDOAH</Tag>
+			<Text>Joanne Shenandoah</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_KAHALU'NYUHE</Tag>
+			<Text>Kahalu'nyuhe</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_JOSE_MAURICIO_NUNES_GARCIA</Tag>
+			<Text>José Mauricio Nunes Garcia</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_ABERTURA_EM_RE</Tag>
+			<Text>Abertura em Ré</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_KAOMA</Tag>
+			<Text>Kaoma</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_LAMBADA</Tag>
+			<Text>Lambada</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_LED_ZEPPELIN</Tag>
+			<Text>Led Zeppelin</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_KASHMIR</Tag>
+			<Text>Kashmir</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_LOUIS_ARMSTRONG2</Tag>
+			<Text>Louis Armstrong</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_WHAT_A_WONDERFUL_WORLD2</Tag>
+			<Text>What a wonderful world</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_MARILYN_MONROE</Tag>
+			<Text>Marilyn Monroe</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_I_WANNA_BE_LOVED_BY_YOU</Tag>
+			<Text>I Wanna Be Loved By You</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_METALLICA</Tag>
+			<Text>Metallica</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_NOTHING_ELSE_MATTERS</Tag>
+			<Text>Nothing Else Matters</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_MICHAEL_JACKSON</Tag>
+			<Text>Michael Jackson</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_EARTH_SONG</Tag>
+			<Text>Earth Song</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_MOHICANS</Tag>
+			<Text>Mohicans</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_YEHA_NOHA</Tag>
+			<Text>Yeha Noha</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_PHOON_YEW_TIEN</Tag>
+			<Text>Mr Phoon Yew Tien</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_MALAY_FOLKSONG_MEDLEY</Tag>
+			<Text>Malay Folksong Medley</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_MULATU_ASTATKE</Tag>
+			<Text>Mulatu Astatke</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_TEZETA</Tag>
+			<Text>Tezeta</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_NAT_YONTARARAK</Tag>
+			<Text>Nat Yontararak</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_GLORY_TO_OUR_GREAT_KINGS</Tag>
+			<Text>Glory to Our Great Kings</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_NICO_VEGA</Tag>
+			<Text>Nico Vega</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_THE_BEAST</Tag>
+			<Text>The Beast</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_PSY</Tag>
+			<Text>PSY</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_GANGNAM_STYLE</Tag>
+			<Text>Gangnam Style</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_QUEEN</Tag>
+			<Text>Queen</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_WE_WILL_ROCK_YOU</Tag>
+			<Text>We Will Rock You</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_RAVI_SHANKAR_RAGA</Tag>
+			<Text>Ravi Shankar Raga</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_PARAMESHWARI</Tag>
+			<Text>Parameshwari</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_ROMICA_PUCEANU</Tag>
+			<Text>Romica Puceanu</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_SARAIMAN</Tag>
+			<Text>Saraiman</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_SA_DING_DING</Tag>
+			<Text>Sa Ding Ding</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_ZI_YOU_XING_ZOU_DE_HUA</Tag>
+			<Text>Zi You Xing Zou De Hua</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_SAINT_KASSIA</Tag>
+			<Text>Saint Kassia</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_APOSTATE_TYRANNO</Tag>
+			<Text>Apostate Tyranno</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_SCOTT_JOPLIN</Tag>
+			<Text>Scott Joplin</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_THE_ENTERTAINER</Tag>
+			<Text>The Entertainer</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_STEVIE_WONDER</Tag>
+			<Text>Stevie Wonder</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_I_JUST_CALLED_TO_SAY_I_LOVE_YOU</Tag>
+			<Text>I Just Called To Say I Love You</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_THE_BEATLES</Tag>
+			<Text>The Beatles</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_LOVE_ME_DO</Tag>
+			<Text>Love me Do</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_THE_ROLLING_STONES</Tag>
+			<Text>The Rolling Stones</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_DOOM_AND_GLOOM</Tag>
+			<Text>Doom And Gloom</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_XIAN_XINGHAI</Tag>
+			<Text>Xian Xinghai</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_YELLOW_RIVER_CANTATA</Tag>
+			<Text>Yellow River Cantata</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_YIRUMA</Tag>
+			<Text>Yiruma</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_RIVER_FLOWS_IN_YOU</Tag>
+			<Text>River Flows In You</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_YLVIS</Tag>
+			<Text>Ylvis</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_THE_FOX</Tag>
+			<Text>The Fox</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_YOKO_KANNO</Tag>
+			<Text>Yoko Kanno</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_BECAUSE</Tag>
+			<Text>Because</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_PERSON_YO-YO_MA</Tag>
+			<Text>Yo-Yo Ma</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_GREAT_WORK_MASSENET_MEDITATION</Tag>
+			<Text>Massenet  Meditation</Text>
+		</Row>
+	</Language_en_US>
+	<Language_PL_PL>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_GIRL_FROM_IPANEMA</Tag>
+				<Text>Dziewczyna z Ipanemy</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_PERSON_ARAM_KHACHATURIAN</Tag>
+				<Text>Aram Czaczaturian</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_SABRE_DANCE</Tag>
+				<Text>Taniec z Szablami</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_PERSON_ARCHILOCOS</Tag>
+				<Text>Archilokos</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_BALLAD_OF_NORTH_HENAN_PROVINCE</Tag>
+				<Text>Ballada z północy prowincji Henan</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_SCHINDLER'S_LIST</Tag>
+				<Text>Lista Schindlera</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_PERSON_MOHICANS</Tag>
+				<Text>Mohikanie</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_PERSON_SAINT_KASSIA</Tag>
+				<Text>Święta Kasja</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_APOSTATE_TYRANNO</Tag>
+				<Text>Apostata Tyranno</Text>
+			</Row>
+			<Row>
+				<Tag>TXT_KEY_GREAT_WORK_YELLOW_RIVER_CANTATA</Tag>
+				<Text>Kantata o Żółtej Rzece</Text>
+			</Row>
+		</Language_PL_PL>
+</GameData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JEAN_AUGUSTE_DOMINIQUE_INGRES">
+			<Text>Jean Auguste Dominique Ingres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_PAUL_SIGNAC">
+			<Text>Paul Signac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ANDY_WARHOL">
+			<Text>Andy Warhol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROY_LICHTENSTEIN">
+			<Text>Roy Lichtenstein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ROBERT_RAUSCHENBERG">
+			<Text>Robert Rauschenberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HENRI_MATISSE">
+			<Text>Henri Matisse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARC_CHAGALL">
+			<Text>Marc Chagall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JOAN_MIRO">
+			<Text>Joan Miro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ALBRECHT_DURER">
+			<Text>Albrecht Durer</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

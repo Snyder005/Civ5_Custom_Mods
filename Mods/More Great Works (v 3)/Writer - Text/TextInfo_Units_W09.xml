@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:09 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_TO_THE_LIGHTHOUSE">
+			<Text>"A light here required a shadow there."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_TO_THE_LIGHTHOUSE">
+			<Text>To the Lighthouse</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

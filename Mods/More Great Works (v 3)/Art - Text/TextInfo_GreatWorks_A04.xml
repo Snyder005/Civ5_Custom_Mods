@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_DORMITION">
+			<Text>The Dormition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_CLARINET_AND_BOTTLE_OF_RUM_ON_A_MANTLEPIECE">
+			<Text>Clarinet and Bottle of Rum on a Mantelpiece</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/27/2010 4:15:53 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SPANISHGALLEON">
+			<Text>Galleon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPANISHGALLEON_TEXT">
+			<Text>A galleon was a large, multi-decked sailing ship used primarily by European states from the 16th to 18th centuries. Portuguese carracks were usually very large ships for their time (often over 1000 tons), while galleons were mostly under 500 tons, although the Manila galleons were to reach up to 2000 tons. With the introduction of the galleon in Portuguese India Armadas during the first quarter of the 16th century, carracks gradually began to be less armed and became almost exclusively cargo ships (which is why the Portuguese carracks were pushed to such large sizes), leaving any fighting to be done to the galleons. One of the largest and most famous of Portuguese galleons was the São João Baptista (nicknamed Botafogo, 'spitfire'), a 1,000-ton galleon built in 1534, said to have carried 366 guns.[NEWLINE][NEWLINE]Portuguese Carracks also tended to be lightly armed and used for transporting cargo in all the fleets of other Western European states, while galleons were purpose-built warships, and were stronger, more heavily armed, and also cheaper to build (5 galleons could cost around the same as 3 carracks) and were therefore a much better investment for use as warships or transports.[NEWLINE][NEWLINE]The galleon was powered entirely by wind, using sails carried on three or four masts, with a lateen sail continuing to be used on the last (usually third and fourth) masts. They were used in both military and trade applications, most famously in the Spanish treasure fleet, and the Manila Galleons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SPANISHGALLEON_STRATEGY">
+			<Text>Fast and sturdy Renaissance Era naval melee unit that may enter deep ocean. Unlike the Caravel it replaces, it receives a combat bonus when defending in, or attacking into, coastal territory. Only Portugal may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PGALLEON">
+			<Text>Portuguese India Armada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PGALLEON_HELP">
+			<Text>Combat bonus when attacking into or defending Coastal tiles (20%)</Text>
+		</Row>
+	</Language_en_US>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ICON_SPANISHGALLEON</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>galleon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ICON_SPANISHGALLEON</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>galleon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ICON_SPANISHGALLEON</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>galleon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ICON_SPANISHGALLEON</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>galleon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ICON_SPANISHGALLEON</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>galleon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>UNITS_GALLEON_FLAG_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>IconGalleon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MOD_GALLEON</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>TwoBigGuns</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_MOD_GALLEON</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_MOD_GALLEON</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_MOD_GALLEON</Type>
+			<Scale>0.14</Scale>
+			<Domain>Sea</Domain>
+			<Model>Assets/Units/Galleon/Galleon.fxsxml</Model>
+			<MaterialTypeTag>WOOD</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>WOODLRG</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_MOD_GALLEON</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady AttackSurfaceToAir</EnableActions>
+			<DisableActions></DisableActions>
+			<HasShortRangedAttack>1</HasShortRangedAttack>
+			<HasLeftRightAttack>1</HasLeftRightAttack>
+			<HasRefaceAfterCombat>0</HasRefaceAfterCombat>
+			<HasIndependentWeaponFacing>1</HasIndependentWeaponFacing>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_MOD_GALLEON</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10</VisKillStrengthMin>
+			<VisKillStrengthMax>20</VisKillStrengthMax>
+			<HitEffect>ART_DEF_VEFFECT_CANNON_IMPACT_$(TERRAIN)</HitEffect>
+			<WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>EXPLOSION6POUND</WeaponTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+
+</GameData>

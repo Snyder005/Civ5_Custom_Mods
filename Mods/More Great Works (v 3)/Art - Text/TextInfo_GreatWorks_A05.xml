@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_FOX">
+			<Text>The Fox</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_OLD_KING">
+			<Text>The Old King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STATES_OF_MIND_I_THE_FAREWELLS">
+			<Text>States of Mind I: The Farewells</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_CONVERSION_OF_ST_PAUL">
+			<Text>The Conversion of St Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_PLAYING_PUTTO_MUSICIAN_ANGEL">
+			<Text>Playing Putto (Musician Angel)</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

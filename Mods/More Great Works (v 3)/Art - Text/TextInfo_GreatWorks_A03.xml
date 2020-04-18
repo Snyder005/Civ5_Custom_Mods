@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BLUE_RIDER">
+			<Text>The Blue Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_FIGURE_5_IN_GOLD">
+			<Text>The Figure 5 in Gold</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

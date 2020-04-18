@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/24/2013 5:23:05 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_WILLIAM_BLAKE">
+			<Text>William Blake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_J_K_ROWLING">
+			<Text>J. K. Rowling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_E_E_CUMMINGS">
+			<Text>e. e. cummings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ARTHUR_MILLER">
+			<Text>Arthur Miller</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_ISAAC_ASIMOV">
+			<Text>Isaac Asimov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_LOREN_ELLIS">
+			<Text>Loren Ellis</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

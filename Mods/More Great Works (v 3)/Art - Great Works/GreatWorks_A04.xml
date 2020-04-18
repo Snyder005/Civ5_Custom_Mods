@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_DORMITION</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_DORMITION</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Theophanes---The-Dormition.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CLARINET_AND_BOTTLE_OF_RUM_ON_A_MANTLEPIECE</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CLARINET_AND_BOTTLE_OF_RUM_ON_A_MANTLEPIECE</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Georges-Braque---Clarinet-and-Bottle-of-Rum-on-a-Mantelpiece.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

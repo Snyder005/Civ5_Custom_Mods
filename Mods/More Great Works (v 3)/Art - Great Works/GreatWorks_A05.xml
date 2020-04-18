@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/22/2013 4:47:33 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_THE_FOX</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_FOX</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Franz-Marc---The-Fox.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_OLD_KING</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_OLD_KING</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Georges-Rouault---The-Old-King.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_STATES_OF_MIND_I_THE_FAREWELLS</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_STATES_OF_MIND_I_THE_FAREWELLS</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Umberto-Boccioni---States-of-Mind-I-The-Farewells.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_CONVERSION_OF_ST_PAUL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_CONVERSION_OF_ST_PAUL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Parmigianino---The-Conversion-of-St-Paul.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_PLAYING_PUTTO_MUSICIAN_ANGEL</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_PLAYING_PUTTO_MUSICIAN_ANGEL</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>GW_Rosso-Fiorentino---Playing-Putto-Musician-Angel.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

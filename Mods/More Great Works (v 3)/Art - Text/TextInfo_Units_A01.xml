@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Objects -->
+<GameData>
+	<Language_en_US>
+		<!-- Great ARTISTS/WRITERS/MUSICIANS -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_AFFANDI">
+			<Text>Affandi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MARCEL_DUCHAMP">
+			<Text>Marcel Duchamp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_MAX_ERNST">
+			<Text>Max Ernst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JASPER_JOHNS">
+			<Text>Jasper Johns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_M_C_ESCHER">
+			<Text>M. C. Escher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EDVARD_MUNCH">
+			<Text>Edvard Munch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JACKSON_POLLOCK">
+			<Text>Jackson Pollock</Text>
+		</Row>
+		
+		
+				
+	</Language_en_US>
+</GameData>

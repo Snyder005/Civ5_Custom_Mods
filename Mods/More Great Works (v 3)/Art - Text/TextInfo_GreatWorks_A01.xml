@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_GREAT_WALL_OF_CHINA">
+			<Text>Great Wall of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NUDE_DESCENDING_A_STAIRCASE_NO_2">
+			<Text>Nude Descending a Staircase, No. 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_TRIUMPH_OF_SURREALISM">
+			<Text>The Triumph of Surrealism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ZERO_THROUGH_NINE">
+			<Text>0 Through 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ASCENDING_AND_DESCENDING">
+			<Text>Ascending and Descending</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SCREAM">
+			<Text>The Scream</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_NO_1">
+			<Text>No. 1</Text>
+		</Row>
+		
+		
+				
+	</Language_en_US>
+</GameData>

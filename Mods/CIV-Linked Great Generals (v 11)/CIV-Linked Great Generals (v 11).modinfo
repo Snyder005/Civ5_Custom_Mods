@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" version="11">
+  <Properties>
+    <Name>CIV-Linked Great Generals</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Civilization appropriate Great General names</Teaser>
+    <Description>Civilization Appropriate Great General and Great Admiral names.
+
+This is a mod that creates Great General and Great Admiral Names that are appropriate for the player's chosen civilization, rather than using random names.
+
+With this mod, Rome will get Gnaeus Pompeius or Germanicus Julius Caesar as great generals but not Mikhail Illarionovich Kutuzov or Kiyotake Kawaguchi. England will get great generals such as Arthur Wellesley or John Churchill, and admirals such as Horatio Nelson or Sir Edward Pellew but not admiral names such as Alfred von Tirpitz or Chester Nimitz.
+
+All names used are historically valid names, though in some cases I had to take a bit of a liberty here and there in assigning who went to what civ.
+
+[u]Current Status[/u]
+Great Generals are provided for every Firaxis-made Civ, including all the DLC civs. Each Civ has at least five civ-specific names for Great Generals. Many have as many as 25 names to draw from. There is also a pool of around 35-40 names for custom mod civs to draw from.
+
+Great Admirals are still a bit WIP. Some Firaxis-made civs have a nicely plump list, others do not. I will be adding more admiral names. But I spent over a month gathering the 600+ Great General names and the 150+ added Great Admiral names, so it does take a while.
+
+This mod is compatible with G&amp;K and BNW, but I cannot be sure it will work with Vanilla. I have tried to structure the mod so that Vanilla might be able to use this, but I cannot be sure that it actually will be.
+
+[url=http://forums.civfanatics.com/showthread.php?t=529450]CivFanatics Discussion Page[/url]
+
+The mod is compatible with any custom civilization. If the author of the custom civ adds Great General and/or Great Admirals names correct for their custom civ, then this mod will use those names for that civ when both mods are enabled by the player.
+
+As of this moment the list of Great Generals is over 600 names. The Admirals list is currently 195 total names. For a detailed list of names and which civ to which a name has been assigned, follow the link to the CivFanatics Discussion Thread.
+
+This mod is compatible with Krajzen's Great People Pack Mod.
+
+Civilizations that have unique replacement units for Great Generals or Great Admirals are not affected by this mod. So the Mongolian Khans, as an example, are not affected, but thier generation of Great Admirals will be as soon as I can find some good Admiral Names to use for them.
+
+If you have any suggestions for general or admiral names, please follow the link to the CivFanatics discussion page 1st and look through the complete lists presented there. Drop a comment for any name you think would be good. I will also be creating a comments thread here within the mod just for suggestions of names, and or quibbles with how I assigned names to civs.</Description>
+    <Authors>lshipp</Authors>
+    <SpecialThanks>Gaius Octavius, DonStamos, Nokmirt, LoneRebel, EgonSpengler, awesome, andreafin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="87d6c040-5015-4494-a930-bfca5fb0561f" minversion="0" maxversion="999" title="Krajzen's Great People Pack" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A9755C9E52BCAF9D6D1F3FE29BE1A630" import="0">Great Admirals/Text_GAdmirals.xml</File>
+    <File md5="5F6496269D01D34DEA866C985E5790B8" import="0">Great Admirals/UnitNames_GAdmirals.xml</File>
+    <File md5="C4C47AA76E7B71BD418CCE524B3B1C3A" import="0">Great Generals/Text_GGenerals.xml</File>
+    <File md5="BA6F662EC4CAF2DA7A1CC11D3DF75ABC" import="0">Great Generals/UnitNames_GGenerals.xml</File>
+    <File md5="987DE0D66410CFDD2CDA70B64AC4BE17" import="0">LUA/Great People Names.lua</File>
+    <File md5="396C9E73910D4B1F52D85F4C9DD41C59" import="1">LUA/LRS_GreatPeople_TSL_Addon.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">LUA/TableSaverLoader016.lua</File>
+    <File md5="FC62CA3A1C67B71BA4D3CCAD467DF9D0" import="1">LUA/TSLSerializerCoreV3.lua</File>
+    <File md5="2E3B50BF5A346AA3CFAFF0D0083B0015" import="0">SerialEventGoodFiles/Promotion_Created.xml</File>
+    <File md5="43E891B6B301EFF4F23F4AAA63972887" import="0">SerialEventGoodFiles/SerialEventUnitCreatedGood.lua</File>
+    <File md5="37438941B2672936C437207A8888B5C4" import="0">SQL/CleanUp.sql</File>
+    <File md5="8C2C337A61777792463DBCFAF7FE2510" import="0">SQL/UniqueUnitNames_CivColumn.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/UniqueUnitNames_CivColumn.sql</UpdateDatabase>
+      <UpdateDatabase>SerialEventGoodFiles/Promotion_Created.xml</UpdateDatabase>
+      <UpdateDatabase>Great Generals/UnitNames_GGenerals.xml</UpdateDatabase>
+      <UpdateDatabase>Great Admirals/UnitNames_GAdmirals.xml</UpdateDatabase>
+      <UpdateDatabase>Great Admirals/Text_GAdmirals.xml</UpdateDatabase>
+      <UpdateDatabase>Great Generals/Text_GGenerals.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/CleanUp.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="SerialEventGoodFiles/SerialEventUnitCreatedGood.lua">
+      <Name>UnitCreatedGood</Name>
+      <Description>Unit Created Good</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Great People Names.lua">
+      <Name>Great General Names</Name>
+      <Description>Great General Names</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

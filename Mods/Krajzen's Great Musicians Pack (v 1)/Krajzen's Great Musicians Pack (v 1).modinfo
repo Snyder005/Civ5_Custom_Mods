@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ed412764-222c-47f2-a7a9-f6bd9ff42dd6" version="1">
+  <Properties>
+    <Name>Krajzen's Great Musicians Pack</Name>
+    <Teaser>This mod adds 60 new Great Musicians - with audio!</Teaser>
+    <Description>This mod adds 60 new Great Musicians - with audio of their hits! (each audio - aroud 30 seconds long) And while Firaxis has given us many Western Classic Composers, my mod adds not only classical music, but also Oriental music, jazz, Baba Yetu from CivilizationIV, ancient songs, folk music from all the world, hits of Led Zeppelin/Metallica/Iron Maiden... 
+
+Mod is tested to death, each single musician and audio works. WARNING - usually loudness of the great works fits game overall loudness surprisingly well, but when you create great work be careful because some audios are a bit louder. But nothing too extreme :)</Description>
+    <Authors>Krajzen</Authors>
+    <SpecialThanks>whoward69</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="80CBD24334811557882A58FE9610E739" import="0">GreatMusicians.xml</File>
+    <File md5="FFB9BBF4C7E6CD9A37D445DB1EBFFF7D" import="1">Music/Abraham Zewi Idelsohn - Hava Nagila.mp3</File>
+    <File md5="15F9E3997656B95D609BDC23769E553E" import="1">Music/Adele - Skyfall.mp3</File>
+    <File md5="221A4EADFC21EB66D0786FE534B9FA58" import="1">Music/Amel Brahim - Bachiana no 5 -.mp3</File>
+    <File md5="9F2AEBB652CF02E32E985ACD08458C33" import="1">Music/Antonio Carlos Jobim - Girl From Ipanema.mp3</File>
+    <File md5="0EE26D805B288F0C9174100E9EC55D19" import="1">Music/Apache - Tatanka.mp3</File>
+    <File md5="BD3F3E63897FDF97F83BCB426E5968BD" import="1">Music/Aram Khachaturian - Sabre Dance.mp3</File>
+    <File md5="E81916DE0381F49DF61750AD2CB7F435" import="1">Music/Archilocos - Ekleipsis.mp3</File>
+    <File md5="DCC634D9CA199FE432EAC50CB7F792E0" import="1">Music/Astor Piazzolla - Libertango.mp3</File>
+    <File md5="D8A7E052B88FEDFAAE851F687C3758D4" import="1">Music/AT Mahmud - Burung Layang-Layang.mp3</File>
+    <File md5="566D1947EA1A615B3D123F4617184A9A" import="1">Music/Aziza Mustafa Zadeh - Bana Bana Gel.mp3</File>
+    <File md5="B52D1DD971E5C261DCA617DEE47B4215" import="1">Music/Bob Dylan - All Along The Watchtower.mp3</File>
+    <File md5="9F0151DF6728B9FD34403308D1813856" import="1">Music/Bob Marley - Redemption.mp3</File>
+    <File md5="35C839620F4330750B77EF1220D68464" import="1">Music/Cesaria Evora - Besame Mucho.mp3</File>
+    <File md5="698F2F1399439F217F184389F102A7A5" import="1">Music/Chen Yi - Arirang.mp3</File>
+    <File md5="321AE0C42893877E3ACF9F4989300A81" import="1">Music/Christopher Tin - Baba Yetu.mp3</File>
+    <File md5="FF6F0F029250B9B59CCC49F9A082B527" import="1">Music/Coolio - Gangsters Paradise.mp3</File>
+    <File md5="96B4F22B497E05C5AC0D84AED216F271" import="1">Music/Corra e Olhe o Ceu - Cartola.mp3</File>
+    <File md5="63EE55E918459B4880533F817D5D775C" import="1">Music/Dede Efendi - Ey eda olmusum muptela.mp3</File>
+    <File md5="347433922202E4995ECAA595F0152E94" import="1">Music/Erhu - Ballad of North Henan Province.mp3</File>
+    <File md5="0C818B4259A2D2616DA35BDD7BDDF050" import="1">Music/Fairouz - Bektob Esmak Ya Habibi.mp3</File>
+    <File md5="CF557E97B23F3A94494D4928992C2BF8" import="1">Music/Fela Kuti - Beasts of No Nation.mp3</File>
+    <File md5="EEC3490BCBC16C77D2CAE23443A76AEE" import="1">Music/Frank Sinatra - Strangers in The Night.mp3</File>
+    <File md5="1B68733732FB869A8C0FACBF1C566C9A" import="1">Music/Gregory Isaacs - Night Nurse.mp3</File>
+    <File md5="A2DBD0AD5ACA2E35CA710C98F1C4556E" import="1">Music/GunsNRoses - Dont Cry.mp3</File>
+    <File md5="803C231903D6B9BCBEDFDE175C0F1612" import="1">Music/Hans Zimmer - Black Hawk Down.mp3</File>
+    <File md5="9F58F7F5477EDD499ECFB2A6773F1C22" import="1">Music/Henryk Wieniawski- Kujawiak.mp3</File>
+    <File md5="BC706FCC7A58FC630C73FDC7314D66C3" import="1">Music/Hildegard von Bingen - O frondens virga, Antiphona.mp3</File>
+    <File md5="EF3792FD6FD325674692FD17560DCC08" import="1">Music/Ibrahim Ferrer - Marieta.mp3</File>
+    <File md5="95447D47E5EE1F0F6525834B11B95D63" import="1">Music/Iron Maiden - Fear of the Dark.mp3</File>
+    <File md5="C79220E334A41BA1025DA04A06D7F115" import="1">Music/Isihija - Kosti.mp3</File>
+    <File md5="4C3BFCAE042F338D584CC71EDDFCF428" import="1">Music/Israel Kamakawiwoole - Somewhere over the Rainbow.mp3</File>
+    <File md5="D145EC35F5A9ABCB4F746D9E65474098" import="1">Music/Itzhak Perlman - Schindler's List.mp3</File>
+    <File md5="610E46169EBB40CC27A5DD3B61E36776" import="1">Music/Joanne Shenandoah - Kahalu'nyuhe.mp3</File>
+    <File md5="6C9E8B694A86F2D4F0EC4C3B4B518993" import="1">Music/Jose Mauricio Nunes Garcia - Abertura em Re.mp3</File>
+    <File md5="AF7B2A7D0386DDCEB539FAE35CE91752" import="1">Music/Kaoma - Lambada.mp3</File>
+    <File md5="5A5AC967CE13FD46348745DFC852A0CB" import="1">Music/Kashmir - Led Zeppelin.mp3</File>
+    <File md5="CE6F8EEC71D512B3B99BEA8DC8E6F9DF" import="1">Music/Louis Armstrong - What a wonderful world.mp3</File>
+    <File md5="0FB9571D1ACA45EAA2A9113BBDBB5F3A" import="1">Music/Marilyn Monroe - I Wanna Be Loved By You.mp3</File>
+    <File md5="0F3CE016406AC04A5C1A94D9BB204840" import="1">Music/Metallica - Nothing Else Matters.mp3</File>
+    <File md5="982FD1E0E5A07B72582CF058A132413B" import="1">Music/Michael Jackson - Earth Song.mp3</File>
+    <File md5="2B18158B7A711FA4D7567132C249FFCD" import="1">Music/Mohicans - Yeha Noha.mp3</File>
+    <File md5="442173D66470FFB38EAB59182A7766E5" import="1">Music/Mr Phoon Yew Tien - Malay Folksong Medley.mp3</File>
+    <File md5="05CA5F00257305479EF15E8415AF3B40" import="1">Music/Mulatu Astatke - Tezeta.mp3</File>
+    <File md5="236C3E817D22F05603055B040440ECF8" import="1">Music/Nat Yontararak - Glory to Our Great Kings.mp3</File>
+    <File md5="BCC64F587A404D6CE364C58AEC3B6B25" import="1">Music/Nico Vega - The Beast.mp3</File>
+    <File md5="F680AC8F625544B3984B965DE29BDFEC" import="1">Music/PSY - Gangnam Style.mp3</File>
+    <File md5="D3A850409CA3DF2F5A82ED38C83D0EE7" import="1">Music/Queen - We Will Rock You.mp3</File>
+    <File md5="9E989D25C20D7C675AEF9B57B3E1DD07" import="1">Music/Ravi Shankar Raga - Parameshwari.mp3</File>
+    <File md5="1697162D980AD37A5F424F8B4C613758" import="1">Music/Romica Puceanu - Saraiman.mp3</File>
+    <File md5="D1D4F466EDD884EB9F573F863D43B296" import="1">Music/Sa Ding Ding - Zi You Xing Zou De Hua.mp3</File>
+    <File md5="DD0C65707796D07F621493F0EF28A347" import="1">Music/Saint Kassia - Apostate Tyranno.mp3</File>
+    <File md5="E84E54A12ABA0E76C513EC95DE6613AB" import="1">Music/Scott Joplin - The Entertainer.mp3</File>
+    <File md5="654FC16F26F1095B79EC6233CA93DF15" import="1">Music/Stevie Wonder - I Just Called To Say I Love You.mp3</File>
+    <File md5="605EB4771EEC5D08E591147C78775526" import="1">Music/The Beatles - Love me Do.mp3</File>
+    <File md5="7AF7DA0B7A0038F7F4BD63C0200ED704" import="1">Music/The Rolling Stones - Doom And Gloom.mp3</File>
+    <File md5="569F3AEAC2ECD6D77B692B20647E4E38" import="1">Music/Xian Xinghai - Yellow River Cantata.mp3</File>
+    <File md5="3DA4C7F00E7144201D47A415C55AED01" import="1">Music/Yiruma - River Flows In You.mp3</File>
+    <File md5="493576B62B628B9464CD21E6CDB41C3D" import="1">Music/Ylvis - The Fox.mp3</File>
+    <File md5="A2B04A6498DBAA5D311CD98A25DD21B5" import="1">Music/Yo-Yo Ma - Massenet Meditation.mp3</File>
+    <File md5="F8492E1AA63EBB75AA87A72DCF8EBA69" import="1">Music/Yoko Kanno - Because.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>GreatMusicians.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

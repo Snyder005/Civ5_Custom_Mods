@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with SublimeText2 by Loren Sandboe -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_SON_OF_MAN">
+			<Text>The Son of Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ABSTRACT_PAINTING_780_1">
+			<Text>Abstract Painting 780-1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SOLDIER_WITH_A_PIPE">
+			<Text>Soldier with a Pipe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FORESTER">
+			<Text>Forester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_A_GROTESQUE_OLD_WOMAN">
+			<Text>A Grotesque Old Woman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_SHIP_UNDER_REPAIR">
+			<Text>Ship Under Repair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_ANATOMY_OF_MAN">
+			<Text>The Anatomy of Man</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
